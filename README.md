@@ -1,6 +1,6 @@
 # Léo Val — Cybersecurity Journey
 
-> Cybersecurity learner focused on offensive security, web pentesting, Red Team and AI security.
+> Cybersecurity learner focused on offensive security, web pentesting, network pentesting, Red Team and AI security.
 
 ## Current profile
 
@@ -58,7 +58,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **36 completed rooms**, **Top 15%**, **4 badges**, **2-day streak**.
+Current baseline: **36 completed rooms**, **Top 15%**, **4 badges**, **2-day streak**, **Capability Score: 43**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -66,8 +66,12 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 ## Current training
 
+- **Networking:** currently studying networking fundamentals and analysis through free TryHackMe rooms. The full TryHackMe Networking module is currently paused because the remaining content requires a paid subscription.
+- **Wi-Fi fundamentals:** currently exploring Wi-Fi fundamentals and reconnaissance; this is being treated as a complementary topic rather than a replacement for the core networking sequence.
 - **Cisco Cybersecurity Essentials:** approximately halfway completed
 - **Harvard CS50:** started, currently at the beginning
+
+The original goal of finishing the complete Networking module within two weeks is **paused** until the required content becomes financially accessible. The objective itself remains: build enough networking knowledge to move into network/infrastructure pentesting.
 
 ## Projects
 
@@ -93,7 +97,7 @@ This repository documents that progression with dated learning logs, projects, l
 
 ## Current direction
 
-**Cybersecurity learner → Offensive Security → Pentesting → Red Team → AI Security / AI-assisted Red Team**
+**Cybersecurity learner → Networking foundations → Network / Infrastructure Pentesting → Offensive Security → Red Team → AI Security / AI-assisted Red Team**
 
 This is a learning trajectory, not a claim of professional expertise.
 
