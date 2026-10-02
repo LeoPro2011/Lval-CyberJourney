@@ -1,118 +1,108 @@
 # Léo Val — Cybersecurity Journey
 
-> Cybersecurity learner focused on offensive security, penetration testing, Red Team and AI security.
-
-## About
-
-I'm Léo Val, a student documenting my cybersecurity learning journey from August 2026 onward.
-
-My current goal is to build strong foundations in offensive security and progressively move toward Red Team and AI-assisted Red Team / AI security.
-
-This repository is a living portfolio: I will document what I learn, what I build, the labs I complete, the techniques I practice, and the evidence behind my progress.
+> Cybersecurity learner focused on offensive security, web pentesting, Red Team and AI security.
 
 ## Current profile
 
-- GitHub: [@lval5](https://github.com/LeoPro2011)
-- Started cybersecurity: August 2026
-- Current focus: Offensive Security, Web Pentesting, Network Pentesting, Linux Privilege Escalation, AI Security
-- Current level: learner with hands-on lab experience
+I'm Léo Val, a student documenting my cybersecurity journey since mid-August 2026.
+
+My current objective is to progress from hands-on cybersecurity fundamentals toward **Red Team**, with a longer-term interest in **AI security and AI-assisted Red Team**.
+
+I learn primarily through practical labs, CTF-style environments, structured courses and personal projects.
+
+## What I currently know and practice
+
+### Offensive security
+- Pentesting methodology and ethics
+- Reconnaissance and enumeration
+- Nmap
+- Dirb
+- Hydra
+- Metasploit / msfconsole
+- Web application testing
+- Subdomain enumeration
+- Authentication testing
+- JWT and cookie manipulation
+- Linux privilege escalation
+- Reverse shells in authorized lab environments
+- Basic exploitation and vulnerability chaining
+
+### Foundations
+- Networking fundamentals
+- LAN concepts
+- DNS
+- HTTP
+- Web application fundamentals
+- Operating systems fundamentals
+- Linux and Windows basics
+- Data representation and encoding
+- Cryptography fundamentals
+- CIA Triad
+- Basic DFIR and SOC concepts
+
+### AI security
+- AI/ML/LLM fundamentals
+- Prompt engineering
+- LLM security concepts
+- AI threat modelling
+- AI security threats
+- Adversarial prompting concepts
+
+### Environment & development
+- Kali Linux
+- Ubuntu
+- WSL
+- Virtual machines
+- Git / GitHub
+- AI-assisted development and vibe coding
 
 ## TryHackMe
 
-Current baseline:
-
-- 36 completed rooms
-- Top 15%
-- 4 badges
-- 2-day streak
-
-Selected areas practiced:
-
-- Network reconnaissance and enumeration
-- Nmap
-- Hydra
-- Metasploit
-- Web application fundamentals
-- HTTP and DNS
-- Subdomain enumeration
-- Guided web and infrastructure pentesting
-- Linux fundamentals
-- Privilege escalation
-- Authentication and JWT/cookie manipulation
-- Reverse shells in authorized lab environments
-- AI security and prompt engineering
-- AI threat modelling
-- Defensive security and DFIR fundamentals
+Current baseline: **36 completed rooms**, **Top 15%**, **4 badges**, **2-day streak**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
-## Training
+My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security.
 
-### Cisco — Cybersecurity Essentials
+## Current training
 
-Currently approximately halfway through the Cisco Cybersecurity Essentials course.
-
-### Harvard CS50
-
-Started CS50 and currently at the beginning of the course.
+- **Cisco Cybersecurity Essentials:** approximately halfway completed
+- **Harvard CS50:** started, currently at the beginning
 
 ## Projects
 
 ### VulnScope
 
-VulnScope is my experimental web security scanner project.
+VulnScope is an experimental web security scanner developed as a cybersecurity learning and portfolio project.
 
-The project is intended for authorized security testing and is being developed as a learning and portfolio project. Its development has helped me work on web reconnaissance, technology detection, security headers, crawling, vulnerability detection, reporting and automated testing.
+It has involved work on crawling, reconnaissance, technology profiling, security-header detection, vulnerability detection, reporting, CORS analysis, CVE correlation and automated testing.
 
-More detailed documentation will be added as the project evolves.
+The project is intended for authorized security testing.
 
-## Tools and technologies
+### Other development
 
-Current hands-on exposure includes:
-
-- Kali Linux
-- Ubuntu
-- WSL
-- Nmap
-- Dirb
-- Hydra
-- Metasploit / msfconsole
-- JWT and cookie manipulation
-- Linux privilege escalation
-- Web application testing
-- Reverse shells in authorized labs
-- Git / GitHub
-- AI-assisted development
-- Prompt engineering
+I have also built several SaaS projects with AI-assisted development tools, including an earlier personalized cybersecurity learning platform.
 
 ## Journey
 
-I started learning cybersecurity in August 2026. I initially learned mainly through hands-on TryHackMe rooms, often learning concepts while solving practical challenges.
+I started learning cybersecurity in mid-August 2026. I initially learned by doing TryHackMe rooms and gradually built practical knowledge while solving challenges.
 
-Since then, my focus has progressively moved toward offensive security, web and infrastructure penetration testing, and AI security.
+Since then, my focus has increasingly shifted toward offensive security, web and infrastructure pentesting, Linux post-exploitation and AI security.
 
-This repository will document the progression rather than presenting a static list of skills.
+This repository documents that progression with dated learning logs, projects, labs and evidence.
 
-## Roadmap
+## Current direction
 
-- [ ] Strengthen networking fundamentals
-- [ ] Strengthen Linux and Windows internals
-- [ ] Continue web application security
-- [ ] Improve privilege escalation skills
-- [ ] Build stronger enumeration methodology
-- [ ] Complete Cisco Cybersecurity Essentials
-- [ ] Progress through CS50
-- [ ] Continue AI security / LLM security
-- [ ] Develop VulnScope further
-- [ ] Build increasingly realistic authorized security labs
-- [ ] Progress toward Red Team capabilities
+**Cybersecurity learner → Offensive Security → Pentesting → Red Team → AI Security / AI-assisted Red Team**
 
-## Method
+This is a learning trajectory, not a claim of professional expertise.
 
-Every documented skill should be backed by something concrete whenever possible: a completed lab, project, write-up, experiment, code, test result, or other evidence.
+## Portfolio principle
 
-The goal is not to claim expertise early. The goal is to make the progression visible.
+I want this repository to show what I have actually practiced, not just technologies I have heard about.
+
+When possible, skills are backed by labs, projects, experiments, write-ups, code or other evidence.
 
 ---
 
-*This repository is maintained as a personal learning portfolio and cybersecurity journey log. All offensive security practice is intended for authorized environments.*
+*All offensive security practice documented here is intended for authorized environments.*
