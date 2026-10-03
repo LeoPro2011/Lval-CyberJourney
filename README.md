@@ -1,115 +1,117 @@
-# Léo Val — Cybersecurity Journey
+# Léo Val — Parcours en cybersécurité
 
-> Cybersecurity learner focused on offensive security, web pentesting, network pentesting, Red Team and AI security.
+> Étudiant en cybersécurité, orienté sécurité offensive, pentest web, pentest réseau, Red Team et sécurité de l'IA.
 
-## Current profile
+🇫🇷 Français | [🇬🇧 English](README.en.md)
 
-I'm Léo Val, a student documenting my cybersecurity journey since mid-August 2026.
+## Profil actuel
 
-My current objective is to progress from hands-on cybersecurity fundamentals toward **Red Team**, with a longer-term interest in **AI security and AI-assisted Red Team**.
+Je suis Léo Val, étudiant, et je documente mon parcours en cybersécurité depuis mi-août 2026.
 
-I learn primarily through practical labs, CTF-style environments, structured courses and personal projects.
+Mon objectif actuel est de progresser des fondamentaux pratiques de la cybersécurité vers la **Red Team**, avec à plus long terme un intérêt particulier pour la **sécurité de l'IA et la Red Team assistée par IA**.
 
-## What I currently know and practice
+J'apprends principalement à travers des labs pratiques, des environnements de type CTF, des formations structurées et des projets personnels.
 
-### Offensive security
-- Pentesting methodology and ethics
-- Reconnaissance and enumeration
+## Ce que je connais et pratique actuellement
+
+### Sécurité offensive
+- Méthodologie et éthique du pentest
+- Reconnaissance et énumération
 - Nmap
 - Dirb
 - Hydra
 - Metasploit / msfconsole
-- Web application testing
-- Subdomain enumeration
-- Authentication testing
-- JWT and cookie manipulation
-- Linux privilege escalation
-- Reverse shells in authorized lab environments
-- Basic exploitation and vulnerability chaining
-- Network-service enumeration and exploitation in authorized labs
-- SMB, FTP and Telnet fundamentals
+- Tests d'applications web
+- Énumération de sous-domaines
+- Tests d'authentification
+- Manipulation de JWT et de cookies
+- Élévation de privilèges sous Linux
+- Reverse shells dans des environnements de lab autorisés
+- Exploitation basique et enchaînement de vulnérabilités
+- Énumération et exploitation de services réseau dans des labs autorisés
+- Fondamentaux de SMB, FTP et Telnet
 
-### Foundations
-- Networking fundamentals
-- LAN concepts
+### Fondamentaux
+- Fondamentaux réseau
+- Concepts LAN
 - DNS
 - HTTP
-- Web application fundamentals
-- Operating systems fundamentals
-- Linux and Windows basics
-- Data representation and encoding
-- Cryptography fundamentals
+- Fondamentaux des applications web
+- Fondamentaux des systèmes d'exploitation
+- Bases de Linux et Windows
+- Représentation et encodage des données
+- Fondamentaux de la cryptographie
 - CIA Triad
-- Basic DFIR and SOC concepts
+- Bases du DFIR et des concepts SOC
 
-### AI security
-- AI/ML/LLM fundamentals
+### Sécurité de l'IA
+- Fondamentaux de l'IA/ML/LLM
 - Prompt engineering
-- LLM security concepts
-- AI threat modelling
-- AI security threats
-- Adversarial prompting concepts
+- Concepts de sécurité des LLM
+- Modélisation des menaces appliquée à l'IA
+- Menaces liées à la sécurité de l'IA
+- Concepts d'adversarial prompting
 
-### Environment & development
+### Environnement et développement
 - Kali Linux
 - Ubuntu
 - WSL
-- Virtual machines
+- Machines virtuelles
 - Git / GitHub
-- AI-assisted development and vibe coding
+- Développement assisté par IA et vibe coding
 
 ## TryHackMe
 
-Current baseline: **37 completed rooms**, **Top 15%**, **4 badges**, **3-day streak**, **Capability Score: 43**.
+État actuel : **37 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 3 jours**, **Capability Score : 43**.
 
-Profile: https://tryhackme.com/p/leo.valpro1903
+Profil : https://tryhackme.com/p/leo.valpro1903
 
-My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security.
+Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnaissance, le pentest, l'exploitation, la sécurité défensive, le DFIR et la sécurité de l'IA.
 
-## Current training
+## Formations actuelles
 
-- **Networking:** currently studying networking fundamentals and analysis through free TryHackMe rooms. The full TryHackMe Networking module is currently paused because the remaining content requires a paid subscription.
-- **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
-- **Wi-Fi fundamentals:** currently exploring Wi-Fi fundamentals and reconnaissance; this is being treated as a complementary topic rather than a replacement for the core networking sequence.
-- **Cisco Cybersecurity Essentials:** approximately halfway completed
-- **Harvard CS50:** started, currently at the beginning
+- **Networking :** étude actuelle des fondamentaux réseau et de l'analyse réseau via les rooms gratuites de TryHackMe. Le module Networking complet de TryHackMe est actuellement en pause car la suite nécessite un abonnement payant.
+- **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
+- **Fondamentaux Wi-Fi :** exploration actuelle des fondamentaux Wi-Fi et de la reconnaissance ; ce sujet est traité comme un complément et non comme un remplacement du parcours réseau principal.
+- **Cisco Cybersecurity Essentials :** environ à mi-parcours
+- **Harvard CS50 :** commencé, actuellement au début
 
-The original goal of finishing the complete Networking module within two weeks is **paused** until the required content becomes financially accessible. The objective itself remains: build enough networking knowledge to move into network/infrastructure pentesting.
+L'objectif initial de terminer le module Networking complet en deux semaines est **en pause** jusqu'à ce que le contenu requis soit financièrement accessible. L'objectif reste le même : acquérir suffisamment de connaissances réseau pour passer au pentest réseau/infrastructure.
 
-## Projects
+## Projets
 
 ### VulnScope
 
-VulnScope is an experimental web security scanner developed as a cybersecurity learning and portfolio project.
+VulnScope est un scanner expérimental de sécurité web développé comme projet d'apprentissage et de portfolio en cybersécurité.
 
-It has involved work on crawling, reconnaissance, technology profiling, security-header detection, vulnerability detection, reporting, CORS analysis, CVE correlation and automated testing.
+Le projet a notamment impliqué du crawling, de la reconnaissance, du profilage technologique, de la détection d'en-têtes de sécurité, de la détection de vulnérabilités, du reporting, de l'analyse CORS, de la corrélation CVE et des tests automatisés.
 
-The project is intended for authorized security testing.
+Le projet est destiné aux tests de sécurité autorisés.
 
-### Other development
+### Autres développements
 
-I have also built several SaaS projects with AI-assisted development tools, including an earlier personalized cybersecurity learning platform.
+J'ai également développé plusieurs projets SaaS avec des outils de développement assisté par IA, dont une première plateforme personnalisée d'apprentissage de la cybersécurité.
 
-## Journey
+## Parcours
 
-I started learning cybersecurity in mid-August 2026. I initially learned by doing TryHackMe rooms and gradually built practical knowledge while solving challenges.
+J'ai commencé à apprendre la cybersécurité à la mi-août 2026. J'ai d'abord appris en réalisant des rooms TryHackMe, puis j'ai progressivement construit des connaissances pratiques en résolvant des challenges.
 
-Since then, my focus has increasingly shifted toward offensive security, web and infrastructure pentesting, Linux post-exploitation and AI security.
+Depuis, mon orientation s'est de plus en plus concentrée sur la sécurité offensive, le pentest web et infrastructure, la post-exploitation Linux et la sécurité de l'IA.
 
-This repository documents that progression with dated learning logs, projects, labs and evidence.
+Ce repository documente cette progression à travers des journaux datés, des projets, des labs et des preuves de pratique.
 
-## Current direction
+## Direction actuelle
 
-**Cybersecurity learner → Networking foundations → Network / Infrastructure Pentesting → Offensive Security → Red Team → AI Security / AI-assisted Red Team**
+**Apprentissage de la cybersécurité → Fondamentaux réseau → Pentest réseau / infrastructure → Sécurité offensive → Red Team → Sécurité de l'IA / Red Team assistée par IA**
 
-This is a learning trajectory, not a claim of professional expertise.
+Il s'agit d'une trajectoire d'apprentissage, et non d'une revendication d'expertise professionnelle.
 
-## Portfolio principle
+## Principe du portfolio
 
-I want this repository to show what I have actually practiced, not just technologies I have heard about.
+Je veux que ce repository montre ce que j'ai réellement pratiqué, et pas uniquement les technologies dont j'ai entendu parler.
 
-When possible, skills are backed by labs, projects, experiments, write-ups, code or other evidence.
+Lorsque c'est possible, les compétences sont accompagnées de labs, projets, expériences, write-ups, code ou autres éléments de preuve.
 
 ---
 
-*All offensive security practice documented here is intended for authorized environments.*
+*Toutes les pratiques de sécurité offensive documentées ici sont destinées à des environnements autorisés.*
