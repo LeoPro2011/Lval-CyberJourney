@@ -26,6 +26,8 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 - Linux privilege escalation
 - Reverse shells in authorized lab environments
 - Basic exploitation and vulnerability chaining
+- Network-service enumeration and exploitation in authorized labs
+- SMB, FTP and Telnet fundamentals
 
 ### Foundations
 - Networking fundamentals
@@ -58,7 +60,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **36 completed rooms**, **Top 15%**, **4 badges**, **2-day streak**, **Capability Score: 43**.
+Current baseline: **37 completed rooms**, **Top 15%**, **4 badges**, **3-day streak**, **Capability Score: 43**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -67,6 +69,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 ## Current training
 
 - **Networking:** currently studying networking fundamentals and analysis through free TryHackMe rooms. The full TryHackMe Networking module is currently paused because the remaining content requires a paid subscription.
+- **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
 - **Wi-Fi fundamentals:** currently exploring Wi-Fi fundamentals and reconnaissance; this is being treated as a complementary topic rather than a replacement for the core networking sequence.
 - **Cisco Cybersecurity Essentials:** approximately halfway completed
 - **Harvard CS50:** started, currently at the beginning
