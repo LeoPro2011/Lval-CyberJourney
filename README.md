@@ -62,7 +62,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **37 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 3 jours**, **Capability Score : 43**.
+État actuel : **38 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 4 jours**, **Capability Score : 43**.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -72,11 +72,16 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 - **Networking :** étude actuelle des fondamentaux réseau et de l'analyse réseau via les rooms gratuites de TryHackMe. Le module Networking complet de TryHackMe est actuellement en pause car la suite nécessite un abonnement payant.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
+- **Network Services 2 :** en cours, actuellement à environ 50 %, avec une première pratique de NFS, SSH, SUID et SMTP dans un lab autorisé.
 - **Fondamentaux Wi-Fi :** exploration actuelle des fondamentaux Wi-Fi et de la reconnaissance ; ce sujet est traité comme un complément et non comme un remplacement du parcours réseau principal.
-- **Cisco Cybersecurity Essentials :** environ à mi-parcours
+- **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
 - **Harvard CS50 :** commencé, actuellement au début
 
 L'objectif initial de terminer le module Networking complet en deux semaines est **en pause** jusqu'à ce que le contenu requis soit financièrement accessible. L'objectif reste le même : acquérir suffisamment de connaissances réseau pour passer au pentest réseau/infrastructure.
+
+## Certifications
+
+- **Cisco Networking Academy — Introduction à la cybersécurité** — obtenue le **5 octobre 2026** ; examen final réussi avec **73 %**.
 
 ## Projets
 
