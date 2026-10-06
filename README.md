@@ -72,12 +72,12 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 - **Networking :** étude actuelle des fondamentaux réseau et de l'analyse réseau via les rooms gratuites de TryHackMe. Le module Networking complet de TryHackMe est actuellement en pause car la suite nécessite un abonnement payant.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
-- **Network Services 2 :** en cours, actuellement à environ 50 %, avec une première pratique de NFS, SSH, SUID et SMTP dans un lab autorisé.
-- **Fondamentaux Wi-Fi :** exploration actuelle des fondamentaux Wi-Fi et de la reconnaissance ; ce sujet est traité comme un complément et non comme un remplacement du parcours réseau principal.
+- **Network Services 2 :** terminée le 6 octobre 2026, avec une première pratique de NFS, SSH, SUID, SMTP, Postfix et MySQL dans un lab autorisé.
+- **Web Hacking 1 :** prochaine étape recommandée par TryHackMe après mon parcours réseau.
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
-- **Harvard CS50 :** commencé, actuellement au début
+- **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
 
-L'objectif initial de terminer le module Networking complet en deux semaines est **en pause** jusqu'à ce que le contenu requis soit financièrement accessible. L'objectif reste le même : acquérir suffisamment de connaissances réseau pour passer au pentest réseau/infrastructure.
+Je veux encore réviser les sept couches OSI avant d'aller plus loin dans le réseau.
 
 ## Certifications
 
