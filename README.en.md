@@ -62,7 +62,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **38 completed rooms**, **Top 15%**, **4 badges**, **4-day streak**, **Capability Score: 43**.
+Current baseline: **40 completed rooms**, **Top 15%**, **4 badges**, **6-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 43**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -72,12 +72,12 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 - **Networking:** currently studying networking fundamentals and analysis through free TryHackMe rooms. The full TryHackMe Networking module is currently paused because the remaining content requires a paid subscription.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
-- **Network Services 2:** in progress, currently around 50%, with first hands-on work on NFS, SSH, SUID and SMTP in an authorized lab.
-- **Wi-Fi fundamentals:** currently exploring Wi-Fi fundamentals and reconnaissance; this is being treated as a complementary topic rather than a replacement for the core networking sequence.
+- **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
+- **Web Hacking 1:** next step recommended by TryHackMe after my networking track.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
-- **Harvard CS50:** started, currently at the beginning
+- **Harvard CS50's Introduction to Cybersecurity:** next structured foundation course, with a target of approximately **30 minutes per day**.
 
-The original goal of finishing the complete Networking module within two weeks is **paused** until the required content becomes financially accessible. The objective itself remains: build enough networking knowledge to move into network/infrastructure pentesting.
+I still want to review the seven OSI layers before going further with networking.
 
 ## Certifications
 
