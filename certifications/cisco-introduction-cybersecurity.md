@@ -4,7 +4,7 @@
 **Date d'achèvement :** 5 octobre 2026  
 **Examen final :** 73 % — réussi
 
-![Certificat Cisco — Introduction à la cybersécurité](./cisco-introduction-cybersecurity.jpg)
+![Certificat Cisco — Introduction à la cybersécurité](introduction-to-cybersecurity.pdf)
 
 > Le certificat original est conservé comme preuve de réussite. Le fichier image doit être ajouté à ce dossier sous le nom `cisco-introduction-cybersecurity.jpg`.
 
