@@ -62,7 +62,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **38 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 4 jours**, **Capability Score : 43**.
+État actuel : **40 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 6 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 43**.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
