@@ -6,7 +6,6 @@
 
 ![Certificat Cisco — Introduction à la cybersécurité](introduction-to-cybersecurity.pdf)
 
-> Le certificat original est conservé comme preuve de réussite. Le fichier image doit être ajouté à ce dossier sous le nom `cisco-introduction-cybersecurity.jpg`.
 
 ## Contenu
 
