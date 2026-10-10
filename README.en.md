@@ -15,7 +15,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 ## What I currently know and practice
 
 ### Offensive security
-- Reverse engineering fundamentals: `strings`, `xxd`, `checksec`, Ghidra and static binary analysis
+- Reverse engineering fundamentals: `strings`, `xxd`, `checksec`, Ghidra, static analysis, first steps with GDB and symbolic execution
 - Basic passive reconnaissance and OSINT
 - Pentesting methodology and ethics
 - Reconnaissance and enumeration
@@ -66,7 +66,9 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **42 completed rooms**, **Top 15%**, **4 badges**, **8-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 43**.
+Current baseline: **42 completed rooms**, **Top 15%**, **4 badges**, **8-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
+
+Latest update (10 October): **#4 in the Sapphire league with 904 points**; **#285 in France's monthly ranking**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -78,7 +80,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
 - **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
 - **Network Reconnaissance:** currently in progress, starting with passive reconnaissance.
-- **Red Queen (TryHackMe):** completed simple and static analysis; explored `xxd`, `checksec`, `strings`, Ghidra and XOR decoding. Dynamic analysis is now underway.
+- **Red Queen (TryHackMe):** completed simple and static analysis; explored `xxd`, `checksec`, `strings`, Ghidra and XOR decoding. Dynamic analysis with GDB followed by an introduction to symbolic execution using `angr` and SMT/Z3 constraints. Room remains in progress.
 - **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
 - **Harvard CS50's Introduction to Cybersecurity:** next structured foundation course, with a target of approximately **30 minutes per day**.
