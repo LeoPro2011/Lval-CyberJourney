@@ -15,6 +15,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 ## Ce que je connais et pratique actuellement
 
 ### Sécurité offensive
+- Fondamentaux du reverse engineering : `strings`, `xxd`, `checksec`, Ghidra et analyse statique d'un binaire
 - Reconnaissance passive et OSINT de base
 - Méthodologie et éthique du pentest
 - Reconnaissance et énumération
@@ -65,7 +66,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **41 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 7 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 43**.
+État actuel : **42 rooms terminées**, **Top 15 %**, **4 badges**, **streak de 8 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 43**.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -77,6 +78,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
 - **Network Services 2 :** terminée le 6 octobre 2026, avec une première pratique de NFS, SSH, SUID, SMTP, Postfix et MySQL dans un lab autorisé.
 - **Network Reconnaissance :** module actuellement en cours, en commençant par la reconnaissance passive.
+- **Red Queen (TryHackMe) :** analyse simple et statique terminées ; découverte de `xxd`, `checksec`, `strings`, Ghidra et du décodage XOR. Analyse dynamique commencée.
 - **Web Hacking 1 :** mis en attente car une grande partie du contenu actuellement proposé nécessite un abonnement payant.
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
 - **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
