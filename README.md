@@ -66,7 +66,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **45 rooms terminées**, **Top 10 % mondial** (rang mondial : **265 048**), **4 badges**, **streak de 12 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 44**.
+État actuel : **46 rooms terminées**, **Top 10 % mondial** (rang mondial : **265 048**), **4 badges**, **streak de 12 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 44**.
 
 Dernier suivi (10 octobre) : **4e de la ligue Saphir avec 904 points** ; **285e au classement mensuel France**.
 
