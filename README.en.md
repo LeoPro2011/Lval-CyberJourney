@@ -66,7 +66,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **42 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **8-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
+Current baseline: **46 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **12-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
 
 Latest update (10 October): **#4 in the Sapphire league with 904 points**; **#285 in France's monthly ranking**.
 
