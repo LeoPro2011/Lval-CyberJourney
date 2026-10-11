@@ -66,7 +66,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **46 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **12-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
+Current baseline: **47 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **13-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
 
 Latest update (10 October): **#4 in the Sapphire league with 904 points**; **#285 in France's monthly ranking**.
 
@@ -80,6 +80,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
 - **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
 - **Network Reconnaissance:** currently in progress, starting with passive reconnaissance.
+- **WiFi Fundamentals and Recon:** completed on 11 October. I know and have performed a Wi-Fi reconnaissance workflow in a lab (monitor mode, multi-band scanning, network/station analysis, and hidden-SSID discovery). This is a practiced skill, but I do not yet consider it fully mastered; I still need more repetition and independence.
 - **Red Queen (TryHackMe):** completed simple and static analysis; explored `xxd`, `checksec`, `strings`, Ghidra and XOR decoding. Dynamic analysis with GDB followed by an introduction to symbolic execution using `angr` and SMT/Z3 constraints. Room remains in progress.
 - **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
