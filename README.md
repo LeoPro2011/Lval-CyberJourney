@@ -84,6 +84,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 - **Red Queen (TryHackMe) :** analyse simple et statique terminées ; découverte de `xxd`, `checksec`, `strings`, Ghidra et du décodage XOR. Analyse dynamique avec GDB puis introduction à l'exécution symbolique avec `angr` et les contraintes SMT/Z3. Room toujours en cours.
 - **Web Hacking 1 :** mis en attente car une grande partie du contenu actuellement proposé nécessite un abonnement payant.
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
+- **Cisco Packet Tracer :** formation en cours pour consolider les fondamentaux réseau et la compréhension des équipements et communications réseau.
 - **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
 
 Je veux encore réviser les sept couches OSI avant d'aller plus loin dans le réseau.
