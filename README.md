@@ -86,6 +86,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
 - **Cisco Packet Tracer :** formation en cours et priorité immédiate pour consolider les fondamentaux réseau.
 - **TryHackMe — AI Forensics :** terminée le 14 octobre 2026 ; pratique guidée de reconstruction de timeline, corrélation d'artefacts, détection d'anomalies par IA et analyse des faux positifs.
+- **TryHackMe — OWASP Top 10 2025: IAAA Failures :** terminée le 14 octobre 2026 ; étude des défaillances liées à l'identité, l'authentification, l'autorisation et l'audit. À consolider par des exercices autonomes de contrôle d'accès.
 - **Orientation en exploration :** IA et cybersécurité, cloud/réseau, SOC et DFIR ; poursuite de l'apprentissage des outils offensifs sans engagement définitif dans le pentest.
 - **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
 
