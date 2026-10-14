@@ -1,6 +1,6 @@
 # Léo Val — Cybersecurity Journey
 
-> Cybersecurity learner focused on offensive security, web pentesting, network pentesting, Red Team and AI security.
+> Cybersecurity learner focused on networking foundations, defensive investigation, AI applied to cybersecurity, and understanding offensive tools.
 
 [🇫🇷 Français](README.md) | 🇬🇧 English
 
@@ -8,7 +8,7 @@
 
 I'm Léo Val, a student documenting my cybersecurity journey since mid-August 2026.
 
-My current objective is to progress from hands-on cybersecurity fundamentals toward **Red Team**, with a longer-term interest in **AI security and AI-assisted Red Team**.
+My career direction is still exploratory: I want to strengthen networking and cybersecurity-tool fundamentals while exploring **AI applied to cybersecurity**, cloud, SOC and DFIR. I am not committing exclusively to offensive pentesting yet.
 
 I learn primarily through practical labs, CTF-style environments, structured courses and personal projects.
 
@@ -66,13 +66,13 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **47 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **13-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
+Current baseline: **48 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **14-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
 
 Latest update (10 October): **#4 in the Sapphire league with 904 points**; **#285 in France's monthly ranking**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
-My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security.
+My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security. AI Forensics was completed on 14 October.
 
 ## Current training
 
@@ -84,13 +84,17 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Red Queen (TryHackMe):** completed simple and static analysis; explored `xxd`, `checksec`, `strings`, Ghidra and XOR decoding. Dynamic analysis with GDB followed by an introduction to symbolic execution using `angr` and SMT/Z3 constraints. Room remains in progress.
 - **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
-- **Harvard CS50's Introduction to Cybersecurity:** next structured foundation course, with a target of approximately **30 minutes per day**.
+- **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
+- **Cisco Packet Tracer:** currently in progress and the immediate priority for strengthening networking fundamentals.
+- **Career exploration:** AI and cybersecurity, cloud/networking, SOC and DFIR, while continuing to learn offensive tools without committing to pentesting as the sole path.
+- **Harvard CS50's Introduction to Cybersecurity:** under consideration, but not the immediate priority while I focus on a structured course and a career-relevant certification.
 
 I still want to review the seven OSI layers before going further with networking.
 
-## Certifications
+## Certifications and next step
 
-- **Cisco Networking Academy — Introduction to Cybersecurity** — earned **5 October 2026**; final exam passed with **73%**.
+- **Cisco Networking Academy — Introduction to Cybersecurity** — course completion certificate earned **5 October 2026**; final exam passed with **73%**.
+- **Potential next step: Cisco CCST Cybersecurity**, a professional certification distinct from a course-completion certificate. I plan to finish Cisco Packet Tracer first, then verify the syllabus, prerequisites and cost before deciding.
 
 ## Projects
 
@@ -116,7 +120,7 @@ This repository documents that progression with dated learning logs, projects, l
 
 ## Current direction
 
-**Cybersecurity learner → Networking foundations → Network / Infrastructure Pentesting → Offensive Security → Red Team → AI Security / AI-assisted Red Team**
+**Networking foundations → defensive investigation (SOC/DFIR) → AI applied to cybersecurity / cloud / networking**, while continuing to learn offensive tools. This direction is exploratory.
 
 This is a learning trajectory, not a claim of professional expertise.
 
