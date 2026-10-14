@@ -1,6 +1,6 @@
 # Léo Val — Parcours en cybersécurité
 
-> Étudiant en cybersécurité, orienté sécurité offensive, pentest web, pentest réseau, Red Team et sécurité de l'IA.
+> Étudiant en cybersécurité, orienté fondamentaux réseau, investigation défensive, IA appliquée à la cybersécurité et compréhension des outils offensifs.
 
 🇫🇷 Français | [🇬🇧 English](README.en.md)
 
@@ -8,7 +8,7 @@
 
 Je suis Léo Val, étudiant, et je documente mon parcours en cybersécurité depuis mi-août 2026.
 
-Mon objectif actuel est de progresser des fondamentaux pratiques de la cybersécurité vers la **Red Team**, avec à plus long terme un intérêt particulier pour la **sécurité de l'IA et la Red Team assistée par IA**.
+Mon orientation est en cours d'exploration : je veux consolider le réseau et les outils de cybersécurité tout en étudiant l'**IA appliquée à la cybersécurité**, le cloud, le SOC et le DFIR. Je ne m'engage pas encore exclusivement dans le pentest offensif.
 
 J'apprends principalement à travers des labs pratiques, des environnements de type CTF, des formations structurées et des projets personnels.
 
@@ -66,13 +66,13 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **47 rooms terminées**, **Top 10 % mondial** (rang mondial : **265 048**), **4 badges**, **streak de 13 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 44**.
+État actuel : **48 rooms terminées**, **Top 10 % mondial** (rang mondial : **265 048**), **4 badges**, **streak de 14 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 44**.
 
 Dernier suivi (10 octobre) : **4e de la ligue Saphir avec 904 points** ; **285e au classement mensuel France**.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
-Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnaissance, le pentest, l'exploitation, la sécurité défensive, le DFIR et la sécurité de l'IA.
+Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnaissance, le pentest, l'exploitation, la sécurité défensive, le DFIR et la sécurité de l'IA. AI Forensics est terminée depuis le 14 octobre.
 
 ## Formations actuelles
 
@@ -84,14 +84,17 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 - **Red Queen (TryHackMe) :** analyse simple et statique terminées ; découverte de `xxd`, `checksec`, `strings`, Ghidra et du décodage XOR. Analyse dynamique avec GDB puis introduction à l'exécution symbolique avec `angr` et les contraintes SMT/Z3. Room toujours en cours.
 - **Web Hacking 1 :** mis en attente car une grande partie du contenu actuellement proposé nécessite un abonnement payant.
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
-- **Cisco Packet Tracer :** formation en cours pour consolider les fondamentaux réseau et la compréhension des équipements et communications réseau.
+- **Cisco Packet Tracer :** formation en cours et priorité immédiate pour consolider les fondamentaux réseau.
+- **TryHackMe — AI Forensics :** terminée le 14 octobre 2026 ; pratique guidée de reconstruction de timeline, corrélation d'artefacts, détection d'anomalies par IA et analyse des faux positifs.
+- **Orientation en exploration :** IA et cybersécurité, cloud/réseau, SOC et DFIR ; poursuite de l'apprentissage des outils offensifs sans engagement définitif dans le pentest.
 - **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
 
 Je veux encore réviser les sept couches OSI avant d'aller plus loin dans le réseau.
 
-## Certifications
+## Certifications et prochaine étape
 
-- **Cisco Networking Academy — Introduction à la cybersécurité** — obtenue le **5 octobre 2026** ; examen final réussi avec **73 %**.
+- **Cisco Networking Academy — Introduction à la cybersécurité** — certificat de fin de cours obtenu le **5 octobre 2026** ; examen final réussi avec **73 %**.
+- **Piste à évaluer : Cisco CCST Cybersecurity**, une certification professionnelle distincte d'un certificat de fin de cours. Je terminerai d'abord Cisco Packet Tracer et vérifierai le contenu, les prérequis et le coût avant de décider.
 
 ## Projets
 
@@ -117,7 +120,7 @@ Ce repository documente cette progression à travers des journaux datés, des pr
 
 ## Direction actuelle
 
-**Apprentissage de la cybersécurité → Fondamentaux réseau → Pentest réseau / infrastructure → Sécurité offensive → Red Team → Sécurité de l'IA / Red Team assistée par IA**
+**Fondamentaux réseau → pratique défensive et investigation (SOC/DFIR) → IA appliquée à la cybersécurité / cloud / réseau**, tout en continuant à apprendre les outils offensifs. Cette trajectoire reste exploratoire.
 
 Il s'agit d'une trajectoire d'apprentissage, et non d'une revendication d'expertise professionnelle.
 
