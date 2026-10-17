@@ -66,9 +66,9 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **48 completed rooms**, **Top 10% worldwide** (global rank: **265,048**), **4 badges**, **14-day streak**, **over 4,000 points**, **Level 8 — Hacker**, **Capability Score: 44**.
+Current baseline: **48 completed rooms (last verified total)**, **all-time global rank: 221,000**, **17-day streak**, **Capability Score: 45**. Other statistics have not been reverified.
 
-Latest update (10 October): **#4 in the Sapphire league with 904 points**; **#285 in France's monthly ranking**.
+Latest update (17 October 2026): **#70 in France's monthly ranking**; **all-time global rank: 221,000**; **Capability Score: 45**; **17-day streak**.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -76,7 +76,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 ## Current training
 
-- **Networking:** currently studying networking fundamentals and analysis through free TryHackMe rooms. The full TryHackMe Networking module is currently paused because the remaining content requires a paid subscription.
+- **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
 - **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
 - **Network Reconnaissance:** currently in progress, starting with passive reconnaissance.
@@ -85,6 +85,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
 - **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
+- **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures:** completed on 14 October 2026; studied identity, authentication, authorization and auditing failures. Further independent access-control practice is still needed.
 - **Cisco Packet Tracer:** currently in progress and the immediate priority for strengthening networking fundamentals.
 - **Career exploration:** AI and cybersecurity, cloud/networking, SOC and DFIR, while continuing to learn offensive tools without committing to pentesting as the sole path.
