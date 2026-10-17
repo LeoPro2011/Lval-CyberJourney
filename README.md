@@ -66,9 +66,9 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **48 rooms terminées**, **Top 10 % mondial** (rang mondial : **265 048**), **4 badges**, **streak de 14 jours**, **plus de 4 000 points**, **niveau 8 — Hacker**, **Capability Score : 44**.
+État actuel : **48 rooms terminées (dernier total vérifié)**, **rang mondial all-time : 221 000**, **streak de 17 jours**, **Capability Score : 45**. Les autres statistiques n'ont pas été revérifiées.
 
-Dernier suivi (10 octobre) : **4e de la ligue Saphir avec 904 points** ; **285e au classement mensuel France**.
+Dernier suivi (17 octobre 2026) : **70e au classement mensuel France** ; **rang mondial all-time : 221 000** ; **Capability Score : 45** ; **streak : 17 jours**.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -76,7 +76,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 ## Formations actuelles
 
-- **Networking :** étude actuelle des fondamentaux réseau et de l'analyse réseau via les rooms gratuites de TryHackMe. Le module Networking complet de TryHackMe est actuellement en pause car la suite nécessite un abonnement payant.
+- **Networking :** étude des fondamentaux réseau et de l'analyse réseau via TryHackMe. Abonnement annuel Premium désormais actif pour utiliser l'AttackBox et suivre des learning paths complets.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
 - **Network Services 2 :** terminée le 6 octobre 2026, avec une première pratique de NFS, SSH, SUID, SMTP, Postfix et MySQL dans un lab autorisé.
 - **Network Reconnaissance :** module actuellement en cours, en commençant par la reconnaissance passive.
@@ -86,6 +86,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
 - **Cisco Packet Tracer :** formation en cours et priorité immédiate pour consolider les fondamentaux réseau.
 - **TryHackMe — AI Forensics :** terminée le 14 octobre 2026 ; pratique guidée de reconstruction de timeline, corrélation d'artefacts, détection d'anomalies par IA et analyse des faux positifs.
+- **TryHackMe — Health Hazard :** room et entraînement pratique terminés en octobre 2026 ; approfondissement du Threat Hunting et de l'investigation à partir de logs.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures :** terminée le 14 octobre 2026 ; étude des défaillances liées à l'identité, l'authentification, l'autorisation et l'audit. À consolider par des exercices autonomes de contrôle d'accès.
 - **Orientation en exploration :** IA et cybersécurité, cloud/réseau, SOC et DFIR ; poursuite de l'apprentissage des outils offensifs sans engagement définitif dans le pentest.
 - **Harvard CS50's Introduction to Cybersecurity :** prochaine formation de fond, avec un objectif d'environ **30 minutes par jour**.
