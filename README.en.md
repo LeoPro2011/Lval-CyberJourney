@@ -86,6 +86,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
 - **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
 - **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
+- **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures:** completed on 14 October 2026; studied identity, authentication, authorization and auditing failures. Further independent access-control practice is still needed.
 - **Cisco Packet Tracer:** currently in progress and the immediate priority for strengthening networking fundamentals.
 - **Career exploration:** AI and cybersecurity, cloud/networking, SOC and DFIR, while continuing to learn offensive tools without committing to pentesting as the sole path.
