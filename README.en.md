@@ -76,6 +76,8 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 ## Current training
 
+- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is in progress: learning relational database concepts (tables, rows and columns) and writing a first SQL query. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. The full list of rooms completed on 18 October will be added after I confirm the exact list.
+
 - **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
 - **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
@@ -85,7 +87,6 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 - **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
 - **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
 - **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
-- **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
 - **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures:** completed on 14 October 2026; studied identity, authentication, authorization and auditing failures. Further independent access-control practice is still needed.
 - **Cisco Packet Tracer:** currently in progress and the immediate priority for strengthening networking fundamentals.
