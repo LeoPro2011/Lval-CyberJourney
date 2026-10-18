@@ -76,6 +76,8 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 ## Formations actuelles
 
+- **TryHackMe — Pre Security (parcours 2026) :** en cours. Le module **Operating Systems Basics** est terminé, avec une découverte du CLI Windows en complément des bases Linux. Dans **Software Basics**, les démonstrations Python et JavaScript sont très introductives et servent surtout de révision, car j'avais déjà quelques bases en programmation. **Database SQL Basics** est en cours : apprentissage des bases de données relationnelles (tables, lignes, colonnes) et rédaction d'une première requête SQL. J'ai aussi découvert les notions générales de cloud computing et les modèles IaaS/PaaS/SaaS. Le bilan complet des rooms réalisées le 18 octobre sera ajouté après vérification de la liste exacte.
+
 - **Networking :** étude des fondamentaux réseau et de l'analyse réseau via TryHackMe. Abonnement annuel Premium désormais actif pour utiliser l'AttackBox et suivre des learning paths complets.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
 - **Network Services 2 :** terminée le 6 octobre 2026, avec une première pratique de NFS, SSH, SUID, SMTP, Postfix et MySQL dans un lab autorisé.
