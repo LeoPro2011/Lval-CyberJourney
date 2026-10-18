@@ -66,9 +66,9 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État actuel : **48 rooms terminées (dernier total vérifié)**, **rang mondial all-time : 221 000**, **streak de 17 jours**, **Capability Score : 45**. Les autres statistiques n'ont pas été revérifiées.
+État au 18 octobre 2026 (déclaré par moi) : **Capability Score : 46**, **top 7 % mondial**, **62e en France**, **1er de la ligue Ruby**, **streak : 18 jours**, **65 tools**. Le total de rooms terminées et le rang mondial all-time restent à revérifier.
 
-Dernier suivi (17 octobre 2026) : **70e au classement mensuel France** ; **rang mondial all-time : 221 000** ; **Capability Score : 45** ; **streak : 17 jours**.
+Dernier suivi (18 octobre 2026) : **62e en France** ; **top 7 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 46** ; **streak : 18 jours** ; **65 tools**. Ces statistiques sont déclarées par moi.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -76,7 +76,7 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 ## Formations actuelles
 
-- **TryHackMe — Pre Security (parcours 2026) :** en cours. Le module **Operating Systems Basics** est terminé, avec une découverte du CLI Windows en complément des bases Linux. Dans **Software Basics**, les démonstrations Python et JavaScript sont très introductives et servent surtout de révision, car j'avais déjà quelques bases en programmation. **Database SQL Basics** est en cours : apprentissage des bases de données relationnelles (tables, lignes, colonnes) et rédaction d'une première requête SQL. J'ai aussi découvert les notions générales de cloud computing et les modèles IaaS/PaaS/SaaS. Le bilan complet des rooms réalisées le 18 octobre sera ajouté après vérification de la liste exacte.
+- **TryHackMe — Pre Security (parcours 2026) :** en cours. Le module **Operating Systems Basics** est terminé, avec une découverte du CLI Windows en complément des bases Linux. Dans **Software Basics**, les démonstrations Python et JavaScript sont très introductives et servent surtout de révision, car j'avais déjà quelques bases en programmation. **Database SQL Basics** est en cours : apprentissage des bases de données relationnelles (tables, lignes, colonnes) et rédaction d'une première requête SQL. J'ai aussi découvert les notions générales de cloud computing et les modèles IaaS/PaaS/SaaS. Le 18 octobre, les rooms/modules déclarés terminés sont : Database SQL Basics, What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security et Linux Fundamentals 1, 2 et 3. Les démonstrations Python/JavaScript étaient très simples ; SQL est une première découverte avec rédaction d'une requête.
 
 - **Networking :** étude des fondamentaux réseau et de l'analyse réseau via TryHackMe. Abonnement annuel Premium désormais actif pour utiliser l'AttackBox et suivre des learning paths complets.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
