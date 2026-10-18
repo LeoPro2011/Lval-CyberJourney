@@ -66,9 +66,9 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Current baseline: **48 completed rooms (last verified total)**, **all-time global rank: 221,000**, **17-day streak**, **Capability Score: 45**. Other statistics have not been reverified.
+Status on 18 October 2026 (self-reported): **Capability Score: 46**, **top 7% globally**, **#62 in France**, **#1 in Ruby league**, **18-day streak**, **65 tools**. Completed-room total and all-time global rank still need verification.
 
-Latest update (17 October 2026): **#70 in France's monthly ranking**; **all-time global rank: 221,000**; **Capability Score: 45**; **17-day streak**.
+Latest update (18 October 2026): **#62 in France**; **top 7% globally**; **#1 in Ruby league**; **Capability Score: 46**; **18-day streak**; **65 tools**. These stats are self-reported.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -76,7 +76,7 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 ## Current training
 
-- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is in progress: learning relational database concepts (tables, rows and columns) and writing a first SQL query. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. The full list of rooms completed on 18 October will be added after I confirm the exact list.
+- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is in progress: learning relational database concepts (tables, rows and columns) and writing a first SQL query. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. Rooms/modules reported completed on 18 October: Database SQL Basics, What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security, and Linux Fundamentals 1, 2 and 3. The Python/JavaScript demos were very introductory; SQL is a first exploration including writing a query.
 
 - **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
