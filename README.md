@@ -74,9 +74,21 @@ Profil : https://tryhackme.com/p/leo.valpro1903
 
 Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnaissance, le pentest, l'exploitation, la sécurité défensive, le DFIR et la sécurité de l'IA. AI Forensics est terminée depuis le 14 octobre.
 
+## Journal d'apprentissage
+
+### 19 octobre 2026 — TryHackMe
+
+Quatre rooms terminées :
+- [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) — aperçu des composants et outils Windows. Contenu introductif, mais utile pour reconnaître les fonctions système et mieux comprendre les postes Windows en entreprise.
+- [Lo-Fi](https://tryhackme.com/room/lofi) — exercice pratique de navigation dans le système de fichiers Linux pour retrouver un flag à la racine de la machine.
+- [W1seGuy](https://tryhackme.com/room/w1seguy) — challenge de cryptographie centré sur l'analyse d'un mécanisme de chiffrement et la récupération du message/flag.
+- [Light](https://tryhackme.com/room/lightroom) — exploitation d'une injection SQL dans une application web ; apprentissage du risque lié à l'intégration non sécurisée des entrées utilisateur dans une requête SQL.
+
+Cette journée a consolidé des notions de systèmes et de sécurité web. L'injection SQL de Light fait le lien avec les bases SQL travaillées dans Pre Security.
+
 ## Formations actuelles
 
-- **TryHackMe — Pre Security (parcours 2026) :** en cours. Le module **Operating Systems Basics** est terminé, avec une découverte du CLI Windows en complément des bases Linux. Dans **Software Basics**, les démonstrations Python et JavaScript sont très introductives et servent surtout de révision, car j'avais déjà quelques bases en programmation. **Database SQL Basics** est en cours : apprentissage des bases de données relationnelles (tables, lignes, colonnes) et rédaction d'une première requête SQL. J'ai aussi découvert les notions générales de cloud computing et les modèles IaaS/PaaS/SaaS. Le 18 octobre, les rooms/modules déclarés terminés sont : What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security et Linux Fundamentals 1, 2 et 3. **Database SQL Basics reste en cours** : je découvre la syntaxe SQL et rédige ma première requête ; la room ne sera marquée terminée qu'après validation. Les démonstrations Python/JavaScript étaient très simples ; SQL est une première découverte avec rédaction d'une requête.
+- **TryHackMe — Pre Security (parcours 2026) :** en cours. Le module **Operating Systems Basics** est terminé, avec une découverte du CLI Windows en complément des bases Linux. Dans **Software Basics**, les démonstrations Python et JavaScript sont très introductives et servent surtout de révision, car j'avais déjà quelques bases en programmation. **Database SQL Basics** est terminée : découverte des bases de données relationnelles (tables, lignes, colonnes) et rédaction d'une première requête SQL. J'ai aussi découvert les notions générales de cloud computing et les modèles IaaS/PaaS/SaaS. Le 18 octobre, les rooms/modules déclarés terminés sont : What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security et Linux Fundamentals 1, 2 et 3. **Database SQL Basics est terminée** : première pratique de la syntaxe SQL et rédaction d'une requête. Les démonstrations Python/JavaScript étaient très simples ; elles servent surtout de révision.
 
 - **Networking :** étude des fondamentaux réseau et de l'analyse réseau via TryHackMe. Abonnement annuel Premium désormais actif pour utiliser l'AttackBox et suivre des learning paths complets.
 - **Network Services :** terminée le 3 octobre 2026, avec de la pratique sur l'énumération/exploitation de SMB, Telnet et FTP dans un lab autorisé.
