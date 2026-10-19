@@ -66,7 +66,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 19 octobre 2026 (déclaré par moi) : **Capability Score : 47**, **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **streak : 19 jours**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 19 octobre 2026 (déclaré par moi) : **Capability Score : 47**, **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **streak : 19 jours** ; **8 600 points** ; **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Dernier suivi (19 octobre 2026) : **44e en France au classement mensuel** ; **top 5 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 47** ; **streak : 19 jours**. Statistiques déclarées par moi.
 
