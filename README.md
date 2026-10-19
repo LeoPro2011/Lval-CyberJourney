@@ -66,15 +66,17 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 18 octobre 2026 (déclaré par moi) : **Capability Score : 46**, **top 7 % mondial**, **62e en France**, **1er de la ligue Ruby**, **streak : 18 jours**, **65 tools**. Le total de rooms terminées et le rang mondial all-time restent à revérifier.
+État au 19 octobre 2026 (déclaré par moi) : **Capability Score : 47**, **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **streak : 19 jours**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
-Dernier suivi (18 octobre 2026) : **62e en France** ; **top 7 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 46** ; **streak : 18 jours** ; **65 tools**. Ces statistiques sont déclarées par moi.
+Dernier suivi (19 octobre 2026) : **44e en France au classement mensuel** ; **top 5 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 47** ; **streak : 19 jours**. Statistiques déclarées par moi.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
 Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnaissance, le pentest, l'exploitation, la sécurité défensive, le DFIR et la sécurité de l'IA. AI Forensics est terminée depuis le 14 octobre.
 
 ## Journal d'apprentissage
+
+Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le récapitulatif mensuel bilingue est disponible dans [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
 ### 19 octobre 2026 — TryHackMe
 
