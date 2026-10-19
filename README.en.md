@@ -66,15 +66,17 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 18 October 2026 (self-reported): **Capability Score: 46**, **top 7% globally**, **#62 in France**, **#1 in Ruby league**, **18-day streak**, **65 tools**. Completed-room total and all-time global rank still need verification.
+Status on 19 October 2026 (self-reported): **Capability Score: 47**, **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **19-day streak**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
-Latest update (18 October 2026): **#62 in France**; **top 7% globally**; **#1 in Ruby league**; **Capability Score: 46**; **18-day streak**; **65 tools**. These stats are self-reported.
+Latest update (19 October 2026): **#44 in France monthly**; **top 5% globally**; **#1 in Ruby league**; **Capability Score: 47**; **19-day streak**. These stats are self-reported.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
 My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security. AI Forensics was completed on 14 October.
 
 ## Learning log
+
+Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and the bilingual monthly summaries are available in [`journey/2026/10-2026.md`](10-2026.md) and [`journey/2026/10-2026.en.md`](10-2026.en.md). Days without hands-on work are not counted as completed rooms.
 
 ### 19 October 2026 — TryHackMe
 
