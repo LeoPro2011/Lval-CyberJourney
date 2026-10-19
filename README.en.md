@@ -74,9 +74,21 @@ Profile: https://tryhackme.com/p/leo.valpro1903
 
 My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security. AI Forensics was completed on 14 October.
 
+## Learning log
+
+### 19 October 2026 — TryHackMe
+
+Four rooms completed:
+- [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) — an introductory overview of Windows components and system tools. Basic, but useful for recognising system features and understanding Windows endpoints in organisations.
+- [Lo-Fi](https://tryhackme.com/room/lofi) — practical filesystem navigation on a Linux target to locate a flag in the root filesystem.
+- [W1seGuy](https://tryhackme.com/room/w1seguy) — a cryptography challenge focused on analysing an encryption mechanism and recovering the message/flag.
+- [Light](https://tryhackme.com/room/lightroom) — SQL injection against a web application, demonstrating the risk of unsafe handling of user input in SQL queries.
+
+This session reinforced operating-system familiarity and web security. The SQL injection exercise in Light connects directly with the SQL fundamentals covered in Pre Security.
+
 ## Current training
 
-- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is in progress: learning relational database concepts (tables, rows and columns) and writing a first SQL query. SQL is the language applications use to query and modify structured data; understanding it will later help with both secure database-backed development and SQL injection analysis. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. Rooms/modules reported completed on 18 October: Database SQL Basics, What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security, and Linux Fundamentals 1, 2 and 3. The Python/JavaScript demos were very introductory; SQL is a first exploration including writing a query.
+- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is complete: introductory relational database concepts (tables, rows and columns) and writing a first SQL query. SQL is the language applications use to query and modify structured data; understanding it will later help with both secure database-backed development and SQL injection analysis. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. Rooms/modules reported completed on 18 October: What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security, Linux Fundamentals 1, 2 and 3, and Database SQL Basics. The Python/JavaScript demos were very introductory; SQL was a first exploration including writing a query.
 
 - **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
