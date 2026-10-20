@@ -78,11 +78,15 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le récapitulatif mensuel bilingue est disponible dans [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
-### 20 octobre 2026 — TryHackMe
+### 20 octobre 2026 — TryHackMe et Cisco Packet Tracer
 
 J'ai terminé [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x), en approfondissant Task Manager, UAC, System Configuration (`msconfig`) et les paramètres système avancés. J'ai aussi découvert des outils d'administration et de diagnostic comme Computer Management, Task Scheduler, Event Viewer, System Information, Resource Monitor et Registry Editor.
 
-Journal détaillé : [Windows Fundamentals 2 — 20 octobre](2026/10-2026/2026-10-20.md).
+J'ai également terminé l'activité **Tutored Exploration — Logical and Physical Mode** de Cisco Packet Tracer, puis terminé la formation **Cisco Packet Tracer** et obtenu le certificat associé. J'ai trouvé la simulation particulièrement intéressante et réaliste : elle permet de manipuler les modes logique et physique et de renforcer une vision globale des réseaux.
+
+Le parcours **Cisco Junior Cybersecurity Analyst** est très long ; je le traiterai comme un **projet parallèle sur l'année scolaire**, plutôt que comme une priorité à terminer rapidement. Il doit me permettre de construire une base générale solide en systèmes, réseaux et cybersécurité.
+
+Journal détaillé : [journal du 20 octobre](2026/10-2026/2026-10-20.md).
 
 ### 19 octobre 2026 — TryHackMe
 
@@ -106,7 +110,7 @@ Cette journée a consolidé des notions de systèmes et de sécurité web. L'inj
 - **Red Queen (TryHackMe) :** analyse simple et statique terminées ; découverte de `xxd`, `checksec`, `strings`, Ghidra et du décodage XOR. Analyse dynamique avec GDB puis introduction à l'exécution symbolique avec `angr` et les contraintes SMT/Z3. Room toujours en cours.
 - **Web Hacking 1 :** mis en attente car une grande partie du contenu actuellement proposé nécessite un abonnement payant.
 - **Cisco Networking Academy — Introduction à la cybersécurité :** **certification obtenue le 5 octobre 2026** ; examen final réussi avec **73 %**.
-- **Cisco Packet Tracer :** formation en cours et priorité immédiate pour consolider les fondamentaux réseau.
+- **Cisco Packet Tracer :** formation terminée le **20 octobre 2026**, certificat obtenu. L'activité Tutored Exploration — Logical and Physical Mode a renforcé ma compréhension de la représentation logique et physique d'un réseau.
 - **TryHackMe — AI Forensics :** terminée le 14 octobre 2026 ; pratique guidée de reconstruction de timeline, corrélation d'artefacts, détection d'anomalies par IA et analyse des faux positifs.
 - **TryHackMe — Health Hazard :** room et entraînement pratique terminés en octobre 2026 ; approfondissement du Threat Hunting et de l'investigation à partir de logs.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures :** terminée le 14 octobre 2026 ; étude des défaillances liées à l'identité, l'authentification, l'autorisation et l'audit. À consolider par des exercices autonomes de contrôle d'accès.
@@ -118,7 +122,8 @@ Je veux encore réviser les sept couches OSI avant d'aller plus loin dans le ré
 ## Certifications et prochaine étape
 
 - **Cisco Networking Academy — Introduction à la cybersécurité** — certificat de fin de cours obtenu le **5 octobre 2026** ; examen final réussi avec **73 %**.
-- **Piste à évaluer : Cisco CCST Cybersecurity**, une certification professionnelle distincte d'un certificat de fin de cours. Je terminerai d'abord Cisco Packet Tracer et vérifierai le contenu, les prérequis et le coût avant de décider.
+- **Cisco Junior Cybersecurity Analyst learning path :** projet parallèle prévu sur l'année scolaire, car le parcours est très long. Il s'inscrit dans une stratégie de consolidation progressive des fondamentaux plutôt que dans une course à la certification.
+- **Piste à évaluer : Cisco CCST Cybersecurity**, certification professionnelle distincte d'un certificat de fin de cours ; contenu, prérequis et coût à vérifier avant décision.
 
 ## Projets
 
