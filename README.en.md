@@ -78,11 +78,15 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and the bilingual monthly summaries are available in [`journey/2026/10-2026.md`](10-2026.md) and [`journey/2026/10-2026.en.md`](10-2026.en.md). Days without hands-on work are not counted as completed rooms.
 
-### 20 October 2026 — TryHackMe
+### 20 October 2026 — TryHackMe and Cisco Packet Tracer
 
 I completed [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x), exploring Task Manager, UAC, System Configuration (`msconfig`) and advanced system settings in greater depth. I also encountered administration and troubleshooting tools including Computer Management, Task Scheduler, Event Viewer, System Information, Resource Monitor and Registry Editor.
 
-Detailed log: [Windows Fundamentals 2 — 20 October](2026/10-2026/2026-10-20.en.md).
+I also completed Cisco Packet Tracer's **Tutored Exploration — Logical and Physical Mode** activity, finished the **Cisco Packet Tracer** training and earned its certificate. I found the simulation realistic and useful for building a broader understanding of networks through both logical and physical views.
+
+The **Cisco Junior Cybersecurity Analyst** learning path is very long, so I will treat it as a **parallel project throughout this school year**, not something to rush through. The aim is to build a solid general foundation in systems, networking and cybersecurity.
+
+Detailed log: [20 October learning log](2026/10-2026/2026-10-20.en.md).
 
 ### 19 October 2026 — TryHackMe
 
@@ -96,7 +100,7 @@ This session reinforced operating-system familiarity and web security. The SQL i
 
 ## Current training
 
-- **TryHackMe — Pre Security (2026 path):** in progress. The **Operating Systems Basics** module is complete, including an introduction to the Windows CLI alongside Linux fundamentals. In **Software Basics**, the Python and JavaScript demos are very introductory and mainly serve as revision because I already had some programming knowledge. **Database SQL Basics** is complete: introductory relational database concepts (tables, rows and columns) and writing a first SQL query. SQL is the language applications use to query and modify structured data; understanding it will later help with both secure database-backed development and SQL injection analysis. I also reviewed the general cloud-computing models, including IaaS/PaaS/SaaS. Rooms/modules reported completed on 18 October: What Is Networking, Computer Types, Client-Server Basics, Windows CLI Basics, Cloud Computing Fundamentals, Python Simple Demo, JavaScript Simple Demo, Linux CLI Basics, Virtualization Basics, Operating System Security, Linux Fundamentals 1, 2 and 3, and Database SQL Basics. The Python/JavaScript demos were very introductory; SQL was a first exploration including writing a query.
+- **TryHackMe — Pre Security:** completed at **100% on 18 October 2026**. The path consolidated networking, operating systems, Linux and Windows, databases/SQL, cloud computing, virtualization and operating-system security. The Python and JavaScript demos were mainly introductory revision.
 
 - **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
 - **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
@@ -109,7 +113,7 @@ This session reinforced operating-system familiarity and web security. The SQL i
 - **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
 - **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
 - **TryHackMe — OWASP Top 10 2025: IAAA Failures:** completed on 14 October 2026; studied identity, authentication, authorization and auditing failures. Further independent access-control practice is still needed.
-- **Cisco Packet Tracer:** currently in progress and the immediate priority for strengthening networking fundamentals.
+- **Cisco Packet Tracer:** completed on **20 October 2026**, certificate earned. The Tutored Exploration — Logical and Physical Mode activity strengthened my understanding of logical and physical network representations.
 - **Career exploration:** AI and cybersecurity, cloud/networking, SOC and DFIR, while continuing to learn offensive tools without committing to pentesting as the sole path.
 - **Harvard CS50's Introduction to Cybersecurity:** under consideration, but not the immediate priority while I focus on a structured course and a career-relevant certification.
 
@@ -118,7 +122,8 @@ I still want to review the seven OSI layers before going further with networking
 ## Certifications and next step
 
 - **Cisco Networking Academy — Introduction to Cybersecurity** — course completion certificate earned **5 October 2026**; final exam passed with **73%**.
-- **Potential next step: Cisco CCST Cybersecurity**, a professional certification distinct from a course-completion certificate. I plan to finish Cisco Packet Tracer first, then verify the syllabus, prerequisites and cost before deciding.
+- **Cisco Junior Cybersecurity Analyst learning path:** a parallel project for this school year because the path is very long. The goal is gradual consolidation of core skills rather than rushing to finish a credential.
+- **Potential next step: Cisco CCST Cybersecurity**, a professional certification distinct from a course-completion certificate; syllabus, prerequisites and cost need to be checked before deciding.
 
 ## Projects
 
