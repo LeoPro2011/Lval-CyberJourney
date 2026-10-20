@@ -66,9 +66,9 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 19 October 2026 (self-reported): **Capability Score: 47**, **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **19-day streak**, **8,600 points**, **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Status on 20 October 2026 (self-reported): **Capability Score: 47**, **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **20-day streak**, **8,600 points**, **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
-Latest update (19 October 2026): **#44 in France monthly**; **top 5% globally**; **#1 in Ruby league**; **Capability Score: 47**; **19-day streak**. These stats are self-reported.
+Latest update (20 October 2026): **#44 in France monthly**; **top 5% globally**; **#1 in Ruby league**; **Capability Score: 47**; **20-day streak**. These stats are self-reported.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -77,6 +77,12 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 ## Learning log
 
 Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and the bilingual monthly summaries are available in [`journey/2026/10-2026.md`](10-2026.md) and [`journey/2026/10-2026.en.md`](10-2026.en.md). Days without hands-on work are not counted as completed rooms.
+
+### 20 October 2026 — TryHackMe
+
+I completed [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x), exploring Task Manager, UAC, System Configuration (`msconfig`) and advanced system settings in greater depth. I also encountered administration and troubleshooting tools including Computer Management, Task Scheduler, Event Viewer, System Information, Resource Monitor and Registry Editor.
+
+Detailed log: [Windows Fundamentals 2 — 20 October](2026/10-2026/2026-10-20.en.md).
 
 ### 19 October 2026 — TryHackMe
 
