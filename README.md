@@ -66,9 +66,9 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 20 octobre 2026 (déclaré par moi) : **Capability Score : 47**, **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **streak : 20 jours** ; **8 600 points** ; **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 21 octobre 2026 (déclaré par moi) : **Capability Score : 47**, **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **streak : 21 jours** ; **8 600 points** ; **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
-Dernier suivi (20 octobre 2026) : **44e en France au classement mensuel** ; **top 5 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 47** ; **streak : 20 jours**. Statistiques déclarées par moi.
+Dernier suivi (20 octobre 2026) : **44e en France au classement mensuel** ; **top 5 % mondial** ; **1er de la ligue Ruby** ; **Capability Score : 47** ; **streak : 21 jours**. Statistiques déclarées par moi.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -77,6 +77,12 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 ## Journal d'apprentissage
 
 Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le récapitulatif mensuel bilingue est disponible dans [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
+
+### 21 octobre 2026 — Windows Fundamentals 3
+
+J'ai terminé [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3x0x), qui approfondit les fonctionnalités de sécurité intégrées à Windows. Cette room poursuit la consolidation de mes bases Windows dans le parcours Cybersecurity 101.
+
+Journal détaillé : [journal du 21 octobre](2026/10-2026/2026-10-21.md).
 
 ### 20 octobre 2026 — TryHackMe et Cisco Packet Tracer
 
