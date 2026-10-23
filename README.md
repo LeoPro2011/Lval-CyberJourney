@@ -80,6 +80,14 @@ Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le r
 
 
 
+
+
+### 23 octobre 2026 — Active Directory
+
+J'ai terminé une room TryHackMe sur l'organisation d'Active Directory, les stratégies de groupe (GPO), l'authentification Kerberos et NetNTLM, ainsi que les domaines, arbres, forêts et relations d'approbation (*trusts*).
+
+Journal détaillé : [journal du 23 octobre](2026/10-2026/2026-10-23.md).
+
 ### 22 octobre 2026 — Vulnérabilité PHP et Active Directory
 
 J'ai découvert les bases d'Active Directory et terminé une room TryHackMe consacrée à une vulnérabilité PHP. J'ai étudié `session.upload_progress`, le traitement des requêtes multipart avant l'exécution du script, ainsi qu'un problème de gestion mémoire lié au *bailout* et à `longjmp`. La classification CWE reste à vérifier : CWE-824 concerne un pointeur non initialisé, tandis que CWE-416 vise l'utilisation après libération.
