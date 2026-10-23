@@ -78,6 +78,14 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and the bilingual monthly summaries are available in [`journey/2026/10-2026.md`](10-2026.md) and [`journey/2026/10-2026.en.md`](10-2026.en.md). Days without hands-on work are not counted as completed rooms.
 
+
+
+### 22 October 2026 — PHP vulnerability and Active Directory
+
+I explored Active Directory fundamentals and completed a TryHackMe room about a PHP vulnerability. I studied `session.upload_progress`, multipart request processing before script execution, and a memory-management issue involving *bailout* and `longjmp`. The CWE classification remains to be verified: CWE-824 concerns an uninitialized pointer, while CWE-416 concerns use-after-free.
+
+Detailed log: [22 October learning log](2026/10-2026/2026-10-22.en.md).
+
 ### 20 October 2026 — TryHackMe and Cisco Packet Tracer
 
 I completed [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x), exploring Task Manager, UAC, System Configuration (`msconfig`) and advanced system settings in greater depth. I also encountered administration and troubleshooting tools including Computer Management, Task Scheduler, Event Viewer, System Information, Resource Monitor and Registry Editor.
