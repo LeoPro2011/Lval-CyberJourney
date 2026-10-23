@@ -80,6 +80,14 @@ Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and t
 
 
 
+
+
+### 23 October 2026 — Active Directory
+
+I completed a TryHackMe room on Active Directory organisation, Group Policy Objects (GPOs), Kerberos and NetNTLM authentication, and domains, trees, forests, and trust relationships.
+
+Detailed log: [23 October learning log](2026/10-2026/2026-10-23.en.md).
+
 ### 22 October 2026 — PHP vulnerability and Active Directory
 
 I explored Active Directory fundamentals and completed a TryHackMe room about a PHP vulnerability. I studied `session.upload_progress`, multipart request processing before script execution, and a memory-management issue involving *bailout* and `longjmp`. The CWE classification remains to be verified: CWE-824 concerns an uninitialized pointer, while CWE-416 concerns use-after-free.
