@@ -78,6 +78,14 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le récapitulatif mensuel bilingue est disponible dans [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
+
+
+### 22 octobre 2026 — Vulnérabilité PHP et Active Directory
+
+J'ai découvert les bases d'Active Directory et terminé une room TryHackMe consacrée à une vulnérabilité PHP. J'ai étudié `session.upload_progress`, le traitement des requêtes multipart avant l'exécution du script, ainsi qu'un problème de gestion mémoire lié au *bailout* et à `longjmp`. La classification CWE reste à vérifier : CWE-824 concerne un pointeur non initialisé, tandis que CWE-416 vise l'utilisation après libération.
+
+Journal détaillé : [journal du 22 octobre](2026/10-2026/2026-10-22.md).
+
 ### 21 octobre 2026 — Windows Fundamentals 3
 
 J'ai terminé [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3x0x), qui approfondit les fonctionnalités de sécurité intégrées à Windows. Cette room poursuit la consolidation de mes bases Windows dans le parcours Cybersecurity 101.
