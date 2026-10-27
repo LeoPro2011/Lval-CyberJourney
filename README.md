@@ -82,6 +82,18 @@ Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le r
 
 
 
+### 26 octobre 2026 — Première découverte de PowerShell
+
+Poursuite de **Cybersecurity 101** avec une première exploration de Windows PowerShell : recherche et consultation de l'aide pour repérer les commandes disponibles. Découverte utile pour les bases IT et le helpdesk, sans prétendre maîtriser l'outil.
+
+Journal détaillé : [journal du 26 octobre](2026/10-2026/2026-10-26.md).
+
+### 24 octobre 2026 — Windows Command Line et PHP2Shell
+
+Room **Windows Command Line** terminée. Découverte d'un exploit Python associé à l'ASLR dans un lab volontairement vulnérable ; le mécanisme de contournement reste à approfondir.
+
+Journal détaillé : [journal du 24 octobre](2026/10-2026/2026-10-24.md).
+
 ### 23 octobre 2026 — Active Directory
 
 J'ai terminé une room TryHackMe sur l'organisation d'Active Directory, les stratégies de groupe (GPO), l'authentification Kerberos et NetNTLM, ainsi que les domaines, arbres, forêts et relations d'approbation (*trusts*).
