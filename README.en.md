@@ -82,6 +82,18 @@ Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and t
 
 
 
+### 26 October 2026 — First look at PowerShell
+
+Continued **Cybersecurity 101** with a first exploration of Windows PowerShell, using search and built-in help to find available commands. This is a useful introduction to IT support/helpdesk fundamentals, not a claim of proficiency.
+
+Detailed log: [26 October journal](2026/10-2026/2026-10-26.en.md).
+
+### 24 October 2026 — Windows Command Line and PHP2Shell
+
+Completed the **Windows Command Line** room. Also encountered a Python exploit associated with ASLR in an intentionally vulnerable lab; the bypass mechanism still needs further study.
+
+Detailed log: [24 October journal](2026/10-2026/2026-10-24.en.md).
+
 ### 23 October 2026 — Active Directory
 
 I completed a TryHackMe room on Active Directory organisation, Group Policy Objects (GPOs), Kerberos and NetNTLM authentication, and domains, trees, forests, and trust relationships.
