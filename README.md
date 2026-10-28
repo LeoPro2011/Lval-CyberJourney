@@ -82,6 +82,12 @@ Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le r
 
 
 
+### 28 octobre 2026 — Début du module Networking
+
+Fin du module consacré aux bases de la ligne de commande dans Cybersecurity 101. Networking Concepts est terminé ; début de Networking Essentials avec une première découverte du DHCP. La room reste en cours.
+
+Journal détaillé : [journal du 28 octobre](2026/10-2026/2026-10-28.md).
+
 ### 26 octobre 2026 — Première découverte de PowerShell
 
 Poursuite de **Cybersecurity 101** avec une première exploration de Windows PowerShell : recherche et consultation de l'aide pour repérer les commandes disponibles. Découverte utile pour les bases IT et le helpdesk, sans prétendre maîtriser l'outil.
