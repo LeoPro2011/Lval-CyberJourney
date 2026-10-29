@@ -82,6 +82,12 @@ Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and t
 
 
 
+### 29 October 2026 — Networking Essentials completed
+
+Completed **Networking Essentials**, covering ARP, ICMP, DHCP, routing, OSPF/EIGRP/BGP/RIP, and NAT. Next up: **Networking Core Protocols**.
+
+Detailed journal: [29 October journal](2026/10-2026/2026-10-29.en.md).
+
 ### 26 October 2026 — First look at PowerShell
 
 Continued **Cybersecurity 101** with a first exploration of Windows PowerShell, using search and built-in help to find available commands. This is a useful introduction to IT support/helpdesk fundamentals, not a claim of proficiency.
