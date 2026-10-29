@@ -82,6 +82,12 @@ Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le r
 
 
 
+### 29 octobre 2026 — Networking Essentials terminée
+
+Fin de la room **Networking Essentials** : découverte d'ARP, ICMP, DHCP, du routage, des protocoles OSPF/EIGRP/BGP/RIP et du NAT. La prochaine étape est **Networking Core Protocols**.
+
+Journal détaillé : [journal du 29 octobre](2026/10-2026/2026-10-29.md).
+
 ### 28 octobre 2026 — Début du module Networking
 
 Fin du module consacré aux bases de la ligne de commande dans Cybersecurity 101. Networking Concepts est terminé ; début de Networking Essentials avec une première découverte du DHCP. La room reste en cours.
