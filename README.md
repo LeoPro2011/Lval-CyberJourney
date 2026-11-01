@@ -76,7 +76,13 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 ## Journal d'apprentissage
 
-Les journaux datés sont archivés dans [`2026/10-2026/`](2026/10-2026/) et le récapitulatif mensuel bilingue est disponible dans [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
+Les journaux datés sont archivés par mois : [`2026/11-2026/`](2026/11-2026/) pour novembre et [`2026/10-2026/`](2026/10-2026/) pour octobre (archives clôturées). Les récapitulatifs mensuels bilingues sont disponibles dans [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
+
+### 1 novembre 2026 — Networking Secure Protocols
+
+Room terminée : étude de TLS et des protocoles sécurisés, découverte pratique de SFTP/FTPS et des VPN, puis première prise en main de Wireshark (inspection de paquets et filtres d'affichage).
+
+Journal détaillé : [journal du 1er novembre](2026/11-2026/2026-11-01.md).
 
 
 
