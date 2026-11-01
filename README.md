@@ -84,6 +84,12 @@ Room terminée : étude de TLS et des protocoles sécurisés, découverte pratiq
 
 Journal détaillé : [journal du 1er novembre](2026/11-2026/2026-11-01.md).
 
+### 1 novembre 2026 — Corridor
+
+Room **Corridor** terminée : identification de hashes MD5 construits à partir d'identifiants numériques prévisibles. Le test de la valeur 0 dans l'URL a permis d'accéder à une ressource cachée contenant le flag. Découverte d'une vulnérabilité IDOR et du principe selon lequel l'obfuscation ne remplace pas un contrôle d'accès côté serveur.
+
+Journal détaillé : [journal du 1er novembre](2026/11-2026/2026-11-01.md).
+
 
 
 
