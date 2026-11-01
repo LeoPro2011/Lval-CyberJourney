@@ -220,3 +220,9 @@ Lorsque c'est possible, les compétences sont accompagnées de labs, projets, ex
 ---
 
 *Toutes les pratiques de sécurité offensive documentées ici sont destinées à des environnements autorisés.*
+
+### 1 novembre 2026 — Agent T
+
+Room **Agent T** terminée : inspection des en-têtes HTTP et identification de PHP 8.1.0-dev, associé à une backdoor déclenchable via l'en-tête `User-Agentt`. Utilisation de `curl` pour envoyer `system('cat /flag.txt')`, puis de `grep` pour isoler le flag dans la réponse HTML. Notions : en-têtes HTTP, requêtes personnalisées, RCE et filtrage en ligne de commande.
+
+Journal détaillé : [journal du 1er novembre](2026/11-2026/2026-11-01.md).
