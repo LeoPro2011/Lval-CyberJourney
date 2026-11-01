@@ -84,6 +84,12 @@ Completed the room: studied TLS and secure protocols, explored SFTP/FTPS and VPN
 
 Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
 
+### 1 November 2026 — Corridor
+
+Completed **Corridor**: identified MD5 hashes derived from predictable numeric identifiers. Testing the value 0 in the URL exposed a hidden resource containing the flag. Learned about IDOR and why obfuscation cannot replace server-side access control.
+
+Detailed log: [1 November journal](2026/11-2026/2026-11-01.en.md).
+
 
 
 
