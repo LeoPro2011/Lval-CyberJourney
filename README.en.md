@@ -208,3 +208,9 @@ When possible, skills are backed by labs, projects, experiments, write-ups, code
 ---
 
 *All offensive security practice documented here is intended for authorized environments.*
+
+### 1 November 2026 — Agent T
+
+Completed **Agent T**: inspected HTTP headers and identified PHP 8.1.0-dev, associated with a backdoor triggered through the `User-Agentt` header. Used `curl` to send `system('cat /flag.txt')`, then `grep` to isolate the flag from the HTML response. Topics: HTTP headers, custom requests, RCE, and command-line filtering.
+
+Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
