@@ -76,7 +76,13 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 
 ## Learning log
 
-Dated logs are archived in [`2026/10-2026/`](../../tree/main/2026/10-2026) and the bilingual monthly summaries are available in [`journey/2026/10-2026.md`](10-2026.md) and [`journey/2026/10-2026.en.md`](10-2026.en.md). Days without hands-on work are not counted as completed rooms.
+Dated logs are archived by month: [`2026/11-2026/`](../../tree/main/2026/11-2026) for November and [`2026/10-2026/`](../../tree/main/2026/10-2026) for October (closed archive). The bilingual monthly summaries are available in [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) and [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Days without hands-on work are not counted as completed rooms.
+
+### 1 November 2026 — Networking Secure Protocols
+
+Completed the room: studied TLS and secure protocols, explored SFTP/FTPS and VPNs through practical work, and took first steps with Wireshark (packet inspection and display filters).
+
+Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
 
 
 
