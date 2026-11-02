@@ -78,6 +78,13 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 Les journaux datés sont archivés par mois : [`2026/11-2026/`](2026/11-2026/) pour novembre et [`2026/10-2026/`](2026/10-2026/) pour octobre (archives clôturées). Les récapitulatifs mensuels bilingues sont disponibles dans [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
+
+### 2 novembre 2026 — Wireshark Basics (en cours)
+
+Début de la room **Wireshark Basics** : découverte de l'interface graphique de Wireshark, puis première approche de la dissection de paquets (*packet dissection*). J'ai appris à rechercher des informations comme la source, l'horodatage et le TTL. La room n'est pas terminée et sera poursuivie lors d'une prochaine session. **Streak : +1 jour de pratique** (total actuel non confirmé).
+
+Journal détaillé : [journal du 2 novembre](2026/11-2026/2026-11-02.md).
+
 ### 1 novembre 2026 — Networking Secure Protocols
 
 Room terminée : étude de TLS et des protocoles sécurisés, découverte pratique de SFTP/FTPS et des VPN, puis première prise en main de Wireshark (inspection de paquets et filtres d'affichage).
