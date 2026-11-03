@@ -67,9 +67,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 20 October 2026 (self-reported): **Capability Score: 47**, **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **20-day streak**, **8,600 points**, **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
-
-Latest update (20 October 2026): **#44 in France monthly**; **top 5% globally**; **#1 in Ruby league**; **Capability Score: 47**; **20-day streak**. These stats are self-reported.
+Status on 3 November 2026 (self-reported): **Capability Score: 47**; **32-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
