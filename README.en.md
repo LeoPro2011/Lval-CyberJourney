@@ -58,6 +58,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ### Environment & development
 - Kali Linux
+- Wireshark (PCAP/PCAPNG analysis, packet dissection, navigation and display filters)
 - Ubuntu
 - WSL
 - Virtual machines
@@ -214,3 +215,12 @@ When possible, skills are backed by labs, projects, experiments, write-ups, code
 Completed **Agent T**: inspected HTTP headers and identified PHP 8.1.0-dev, associated with a backdoor triggered through the `User-Agentt` header. Used `curl` to send `system('cat /flag.txt')`, then `grep` to isolate the flag from the HTML response. Topics: HTTP headers, custom requests, RCE, and command-line filtering.
 
 Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
+
+
+### 3 November 2026 — Wireshark: The Basics
+
+Completed **Wireshark: The Basics**. After an initial look at the interface and packet dissection on 2 November, I spent more time navigating captures, searching packet details and applying display filters. I practiced examining packet fields, metadata and payload information, and understanding individual packets in the context of broader network exchanges.
+
+**Streak: +1 day of practice on 3 November; +1 completed room.**
+
+Detailed journal: [3 November journal](2026/11-2026/2026-11-03.en.md).
