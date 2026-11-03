@@ -58,6 +58,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ### Environnement et développement
 - Kali Linux
+- Wireshark (analyse de captures PCAP/PCAPNG, dissection, navigation et filtres d'affichage)
 - Ubuntu
 - WSL
 - Machines virtuelles
@@ -79,11 +80,13 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 Les journaux datés sont archivés par mois : [`2026/11-2026/`](2026/11-2026/) pour novembre et [`2026/10-2026/`](2026/10-2026/) pour octobre (archives clôturées). Les récapitulatifs mensuels bilingues sont disponibles dans [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
 
-### 2 novembre 2026 — Wireshark Basics (en cours)
+### 2–3 novembre 2026 — Wireshark: The Basics
 
-Début de la room **Wireshark Basics** : découverte de l'interface graphique de Wireshark, puis première approche de la dissection de paquets (*packet dissection*). J'ai appris à rechercher des informations comme la source, l'horodatage et le TTL. La room n'est pas terminée et sera poursuivie lors d'une prochaine session. **Streak : +1 jour de pratique** (total actuel non confirmé).
+Room **Wireshark: The Basics** terminée le 3 novembre. Après une première découverte de l'interface et de la dissection le 2 novembre, j'ai approfondi la navigation dans les captures, la recherche d'informations dans les paquets et l'utilisation des filtres d'affichage. J'ai travaillé à comprendre les champs, métadonnées et données disponibles dans les paquets, ainsi qu'à replacer les paquets dans le contexte des échanges réseau.
 
-Journal détaillé : [journal du 2 novembre](2026/11-2026/2026-11-02.md).
+**Streak : +1 jour de pratique le 3 novembre ; +1 room terminée.**
+
+Journal détaillé : [journal du 3 novembre](2026/11-2026/2026-11-03.md).
 
 ### 1 novembre 2026 — Networking Secure Protocols
 
