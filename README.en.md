@@ -67,7 +67,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 3 November 2026 (self-reported): **Capability Score: 47**; **32-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Status on 3 November 2026 (self-reported): **Capability Score: 47**; **33-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -222,3 +222,12 @@ Completed **Wireshark: The Basics**. After an initial look at the interface and 
 **Streak: +1 day of practice on 3 November; +1 completed room.**
 
 Detailed journal: [3 November journal](2026/11-2026/2026-11-03.en.md).
+
+
+### 4 November 2026 — tcpdump
+
+Completed the **tcpdump** room: introduction to the **libpcap** packet-capture library (C/C++ ecosystem) and first hands-on work with the **`tcpdump`** command-line tool, its syntax and options. The underlying capture mechanism still needs further study.
+
+**Streak: 33 days as of 4 November; +1 completed room.**
+
+Detailed journal: [4 November journal](2026/11-2026/2026-11-04.en.md).
