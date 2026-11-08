@@ -67,7 +67,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 3 November 2026 (self-reported): **Capability Score: 47**; **33-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Status on 8 November 2026 (self-reported): **Capability Score: 48**; **35-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -76,6 +76,14 @@ My completed rooms cover networking, Linux, web security, reconnaissance, pentes
 ## Learning log
 
 Dated logs are archived by month: [`2026/11-2026/`](../../tree/main/2026/11-2026) for November and [`2026/10-2026/`](../../tree/main/2026/10-2026) for October (closed archive). The bilingual monthly summaries are available in [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) and [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Days without hands-on work are not counted as completed rooms.
+
+### 8 November 2026 — Public Key Crypto
+
+Completed **Public Key Crypto**: studied asymmetric cryptography, RSA fundamentals, modular arithmetic and Diffie–Hellman key exchange. Practiced calculations with Python 3, reviewed SSH keys and learned GPG basics (key import and decryption). Also spent several hours working on a huntr.com challenge.
+
+**Streak: 35 days; Capability Score: 48; +1 completed room.**
+
+Detailed journal: [8 November journal](2026/11-2026/2026-11-08.en.md).
 
 ### 1 November 2026 — Networking Secure Protocols
 
