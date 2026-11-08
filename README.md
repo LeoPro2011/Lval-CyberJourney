@@ -67,7 +67,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 3 novembre 2026 (déclaré par moi) : **Capability Score : 47** ; **streak : 33 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 8 novembre 2026 (déclaré par moi) : **Capability Score : 48** ; **streak : 35 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -77,6 +77,14 @@ Mes rooms terminées couvrent le réseau, Linux, la sécurité web, la reconnais
 
 Les journaux datés sont archivés par mois : [`2026/11-2026/`](2026/11-2026/) pour novembre et [`2026/10-2026/`](2026/10-2026/) pour octobre (archives clôturées). Les récapitulatifs mensuels bilingues sont disponibles dans [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) et [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Les journées sans pratique ne sont pas comptées comme des rooms terminées.
 
+
+### 8 novembre 2026 — Public Key Crypto
+
+Room **Public Key Crypto** terminée : étude de la cryptographie asymétrique, des bases mathématiques de RSA, de l'arithmétique modulaire et de l'échange de clés Diffie–Hellman. Mise en pratique de calculs avec Python 3, révision des clés SSH et découverte de GPG (importation de clés et déchiffrement). Plusieurs heures ont également été consacrées à un challenge sur huntr.com.
+
+**Streak : 35 jours ; Capability Score : 48 ; +1 room terminée.**
+
+Journal détaillé : [journal du 8 novembre](2026/11-2026/2026-11-08.md).
 
 ### 2–3 novembre 2026 — Wireshark: The Basics
 
