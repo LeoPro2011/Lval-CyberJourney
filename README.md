@@ -67,7 +67,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 8 novembre 2026 (déclaré par moi) : **Capability Score : 48** ; **streak : 35 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 8 novembre 2026 (déclaré par moi) : **Capability Score : 48** ; **streak : 36 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -251,3 +251,12 @@ Room **tcpdump** terminée : découverte de la bibliothèque de capture réseau 
 **Streak : 33 jours au 4 novembre ; +1 room terminée.**
 
 Journal détaillé : [journal du 4 novembre](2026/11-2026/2026-11-04.md).
+
+
+### 9 novembre 2026 — huntr.com, Cisco Packet Tracer et Intermediate Nmap
+
+Poursuite de **Enter the Challenge** sur huntr.com avec une approche plus sociale et persuasive, sans résultat concluant. Une tentative de questionnement technologique sur le fonctionnement et les limites du modèle a été immédiatement détectée et signalée comme tentative de jailbreak. Courte session de pratique sur **Cisco Packet Tracer**, puis room **Intermediate Nmap** terminée : révision pratique de la reconnaissance et de l'énumération dans un CTF.
+
+**Streak : 36 jours ; +1 room terminée.**
+
+Journal détaillé : [journal du 9 novembre](2026/11-2026/2026-11-09.md).
