@@ -67,7 +67,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 8 November 2026 (self-reported): **Capability Score: 48**; **35-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Status on 10 November 2026 (self-reported): **Capability Score: 48**; **37-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -239,3 +239,12 @@ Completed the **tcpdump** room: introduction to the **libpcap** packet-capture l
 **Streak: 33 days as of 4 November; +1 completed room.**
 
 Detailed journal: [4 November journal](2026/11-2026/2026-11-04.en.md).
+
+
+### 10 November 2026 — Hashing Basics and LLM exploration
+
+Completed **Hashing Basics**: studied hash functions, collisions, secure password storage with salts, hash identification/cracking, file-integrity verification and HMAC. Reviewed the differences between hashing, encryption and encoding, the limitations of MD5/SHA-1, and password-specific hashing functions. I also tried coding on Roblox, but did not find it interesting, while gaining some additional exposure to LLMs.
+
+**Streak: 37 days; +1 completed room.**
+
+Detailed journal: [10 November journal](2026/11-2026/2026-11-10.en.md).
