@@ -67,7 +67,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 8 novembre 2026 (déclaré par moi) : **Capability Score : 48** ; **streak : 36 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 10 novembre 2026 (déclaré par moi) : **Capability Score : 48** ; **streak : 37 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -260,3 +260,12 @@ Poursuite de **Enter the Challenge** sur huntr.com avec une approche plus social
 **Streak : 36 jours ; +1 room terminée.**
 
 Journal détaillé : [journal du 9 novembre](2026/11-2026/2026-11-09.md).
+
+
+### 10 novembre 2026 — Hashing Basics et découverte des LLM
+
+Room **Hashing Basics** terminée : étude des fonctions de hachage, collisions, stockage sécurisé des mots de passe avec salt, identification/cracking de hashes, vérification de l'intégrité des fichiers et HMAC. Révision des différences entre hachage, chiffrement et encodage, des limites de MD5/SHA-1 et des fonctions adaptées au stockage des mots de passe. J'ai également essayé de coder sur Roblox, sans y trouver d'intérêt particulier, tout en découvrant un peu mieux les LLM.
+
+**Streak : 37 jours ; +1 room terminée.**
+
+Journal détaillé : [journal du 10 novembre](2026/11-2026/2026-11-10.md).
