@@ -248,3 +248,12 @@ Completed **Hashing Basics**: studied hash functions, collisions, secure passwor
 **Streak: 37 days; +1 completed room.**
 
 Detailed journal: [10 November journal](2026/11-2026/2026-11-10.en.md).
+
+
+### 11 November 2026 — Cryptography module completed
+
+Completed the **Cryptography** module. The **John the Ripper: The Basics** room provided hands-on practice with MD5, SHA-256, Whirlpool and NTLM hashes, Linux `/etc/shadow` hashes and `unshadow`, followed by Single Crack Mode, *word mangling* and the GECOS field. I also completed **Crack the Hash** and earned the **Hash Cracker** badge.
+
+**Streak: 38 days; +2 completed rooms.**
+
+Detailed journal: [11 November journal](2026/11-2026/2026-11-11.en.md).
