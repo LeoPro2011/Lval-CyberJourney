@@ -269,3 +269,12 @@ Room **Hashing Basics** terminée : étude des fonctions de hachage, collisions,
 **Streak : 37 jours ; +1 room terminée.**
 
 Journal détaillé : [journal du 10 novembre](2026/11-2026/2026-11-10.md).
+
+
+### 11 novembre 2026 — Fin du module Cryptography
+
+Module **Cryptography** terminé. La room **John the Ripper: The Basics** m'a permis de pratiquer John the Ripper sur des hashes MD5, SHA-256, Whirlpool et NTLM, de travailler avec `/etc/shadow` et `unshadow`, puis de découvrir le mode Single Crack, le *word mangling* et le champ GECOS. J'ai également terminé **Crack the Hash** et obtenu le badge **Hash Cracker**.
+
+**Streak : 38 jours ; +2 rooms terminées.**
+
+Journal détaillé : [journal du 11 novembre](2026/11-2026/2026-11-11.md).
