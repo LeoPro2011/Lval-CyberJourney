@@ -67,7 +67,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 12 novembre 2026 (déclaré par moi) : **Capability Score : 48** (dernier score confirmé) ; **streak : 39 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 12 novembre 2026 (déclaré par moi) : **Capability Score : 48** (dernier score confirmé) ; **streak : 40 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -287,5 +287,14 @@ Room **[Outlook NTLM Leak](https://tryhackme.com/room/outlookntlmleak)** termin�
 Réflexion complémentaire sur l'évolution des métiers cyber avec l'IA, la valeur de la compréhension manuelle des vulnérabilités et l'usage possible d'agents locaux autorisés pour assister la sécurisation d'Active Directory, sous contrôle humain.
 
 **Streak : 39 jours ; +1 room terminée.**
+
+Journal détaillé : [journal du 12 novembre](2026/11-2026/2026-11-12.md).
+
+
+### 12 novembre 2026 — Metasploit: Exploitation
+
+Room **[Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation)** terminée. Pratique du scanning avec les modules auxiliaires, de la base de données Metasploit, du scan de vulnérabilités, de l'exploitation de services vulnérables (EternalBlue/MS17-010 et vsftpd 2.3.4), ainsi que de la génération de payloads avec **msfvenom** et de l'ouverture de sessions Meterpreter.
+
+**Streak : 40 jours ; +1 room supplémentaire (2 rooms terminées le 12 novembre).**
 
 Journal détaillé : [journal du 12 novembre](2026/11-2026/2026-11-12.md).
