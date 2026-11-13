@@ -67,7 +67,7 @@ I learn primarily through practical labs, CTF-style environments, structured cou
 
 ## TryHackMe
 
-Status on 10 November 2026 (self-reported): **Capability Score: 48**; **37-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Status on 13 November 2026 (self-reported): **Capability Score: 48** (latest confirmed score); **41-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
 
 Profile: https://tryhackme.com/p/leo.valpro1903
 
@@ -188,6 +188,10 @@ It has involved work on crawling, reconnaissance, technology profiling, security
 
 The project is intended for authorized security testing.
 
+### PentestGPT
+
+Initial setup of [PentestGPT](https://github.com/GreyDGL/PentestGPT) in Kali Linux under WSL. The repository and dependencies are installed, and native Codex CLI is configured with OpenRouter and NVIDIA Nemotron 3 Ultra 550B. Direct Codex connectivity was tested successfully. Integration through PentestGPT's `openai-codex` SDK and safe execution remain unverified; the agent roles currently use `FULL_ACCESS`, and no autonomous pentest has been launched.
+
 ### Other development
 
 I have also built several SaaS projects with AI-assisted development tools, including an earlier personalized cybersecurity learning platform.
@@ -257,3 +261,14 @@ Completed the **Cryptography** module. The **John the Ripper: The Basics** room 
 **Streak: 38 days; +2 completed rooms.**
 
 Detailed journal: [11 November journal](2026/11-2026/2026-11-11.en.md).
+
+
+### 13 November 2026 — Metasploit and PentestGPT
+
+Completed the **Metasploit** module and earned its badge; also completed **Metasploit: Meterpreter**, with initial hands-on use of Meterpreter and its scripts.
+
+I also installed PentestGPT in Kali under WSL and configured Codex CLI with OpenRouter and NVIDIA Nemotron 3 Ultra 550B. The direct Codex test succeeded, but OpenRouter integration through PentestGPT's backend still needs confirmation. The agent roles currently use `FULL_ACCESS`; no autonomous pentest has been run before validating isolation.
+
+**Streak: 41 days; +1 completed room; Metasploit badge earned.**
+
+Detailed journal: [13 November journal](2026/11-2026/2026-11-13.en.md).
