@@ -67,7 +67,7 @@ J'apprends principalement à travers des labs pratiques, des environnements de t
 
 ## TryHackMe
 
-État au 12 novembre 2026 (déclaré par moi) : **Capability Score : 48** (dernier score confirmé) ; **streak : 40 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
+État au 13 novembre 2026 (déclaré par moi) : **Capability Score : 48** (dernier score confirmé) ; **streak : 41 jours**. Les autres statistiques de classement ci-dessous datent du 21 octobre 2026 : **top 5 % mondial**, **44e en France au classement mensuel**, **1er de la ligue Ruby**, **8 600 points** et **rang Mage**. Le nombre total de rooms et le rang mondial all-time ne sont pas actualisés faute de chiffres récents confirmés.
 
 Profil : https://tryhackme.com/p/leo.valpro1903
 
@@ -298,3 +298,14 @@ Room **[Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitat
 **Streak : 40 jours ; +1 room supplémentaire (2 rooms terminées le 12 novembre).**
 
 Journal détaillé : [journal du 12 novembre](2026/11-2026/2026-11-12.md).
+
+
+### 13 novembre 2026 — Metasploit et PentestGPT
+
+Module **Metasploit** terminé et badge obtenu ; room **Metasploit: Meterpreter** terminée, avec une première pratique de Meterpreter et de ses scripts.
+
+J'ai également installé PentestGPT dans Kali sous WSL et configuré Codex CLI avec OpenRouter et NVIDIA Nemotron 3 Ultra 550B. Le test direct de Codex a réussi, mais l'intégration OpenRouter dans le backend PentestGPT reste à confirmer. Les agents disposent actuellement d'une configuration `FULL_ACCESS` : aucun pentest autonome n'a été lancé avant validation de l'isolation.
+
+**Streak : 41 jours ; +1 room terminée ; badge Metasploit obtenu.**
+
+Journal détaillé : [journal du 13 novembre](2026/11-2026/2026-11-13.md).
