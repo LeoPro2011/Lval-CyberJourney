@@ -1,274 +1,52 @@
 # Léo Val — Cybersecurity Journey
 
-> Cybersecurity learner focused on networking foundations, defensive investigation, AI applied to cybersecurity, and understanding offensive tools.
+> Cybersecurity student exploring networking, offensive and defensive security, SOC/DFIR, and AI applied to cybersecurity.
 
 [🇫🇷 Français](README.md) | 🇬🇧 English
 
-## Current profile
+## Profile
 
-I'm Léo Val, a student documenting my cybersecurity journey since mid-August 2026.
+I have been documenting my learning since August 2026 through hands-on labs, TryHackMe rooms and personal projects. My direction is still exploratory: I am focusing on networking, systems and cybersecurity foundations before choosing a specialisation.
 
-My career direction is still exploratory: I want to strengthen networking and cybersecurity-tool fundamentals while exploring **AI applied to cybersecurity**, cloud, SOC and DFIR. I am not committing exclusively to offensive pentesting yet.
+## Skills in progress
 
-I learn primarily through practical labs, CTF-style environments, structured courses and personal projects.
+- **Networking:** TCP/IP, DNS, HTTP, SMB, FTP, Nmap, Wireshark and tcpdump.
+- **Systems:** Linux, Windows, Kali Linux, WSL and virtual machines.
+- **Security:** reconnaissance, enumeration, cryptography, hash analysis, and introductory pentesting and post-exploitation in authorised environments.
+- **Tools:** Metasploit, Meterpreter, John the Ripper and Git/GitHub.
+- **AI and development:** LLM fundamentals, AI security and AI-assisted development.
 
-## What I currently know and practice
-
-### Offensive security
-- Reverse engineering fundamentals: `strings`, `xxd`, `checksec`, Ghidra, static analysis, first steps with GDB and symbolic execution
-- Basic passive reconnaissance and OSINT
-- Pentesting methodology and ethics
-- Reconnaissance and enumeration
-- Nmap
-- Dirb
-- Hydra
-- Metasploit / msfconsole
-- Web application testing
-- Subdomain enumeration
-- Authentication testing
-- JWT and cookie manipulation
-- Linux privilege escalation
-- Reverse shells in authorized lab environments
-- Basic exploitation and vulnerability chaining
-- Network-service enumeration and exploitation in authorized labs
-- SMB, FTP and Telnet fundamentals
-
-### Foundations
-- WHOIS, DNS, `nslookup` and `dig`
-- ASN and network infrastructure concepts
-- Networking fundamentals
-- LAN concepts
-- DNS
-- HTTP
-- Web application fundamentals
-- Operating systems fundamentals
-- Linux and Windows basics
-- Data representation and encoding
-- Cryptography fundamentals
-- CIA Triad
-- Basic DFIR and SOC concepts
-
-### AI security
-- AI/ML/LLM fundamentals
-- Prompt engineering
-- LLM security concepts
-- AI threat modelling
-- AI security threats
-- Adversarial prompting concepts
-
-### Environment & development
-- Kali Linux
-- Wireshark (PCAP/PCAPNG analysis, packet dissection, navigation and display filters)
-- Ubuntu
-- WSL
-- Virtual machines
-- Git / GitHub
-- AI-assisted development and vibe coding
+These describe topics studied and practiced at different levels, not professional mastery.
 
 ## TryHackMe
 
-Status on 13 November 2026 (self-reported): **Capability Score: 48** (latest confirmed score); **41-day streak**. The other ranking figures below are historical, from 21 October 2026: **top 5% globally**, **#44 in France monthly**, **#1 in Ruby league**, **8,600 points**, and **Mage rank**. Completed-room total and worldwide all-time rank are not updated because no recent confirmed values were provided.
+Profile: [tryhackme.com/p/leo.valpro1903](https://tryhackme.com/p/leo.valpro1903)
 
-Profile: https://tryhackme.com/p/leo.valpro1903
+Completed rooms cover networking, Linux, Windows, web security, cryptography, reconnaissance and exploitation. Recent badges: **Hash Cracker**, **Metasploit** and **Blue**.
 
-My completed rooms cover networking, Linux, web security, reconnaissance, pentesting, exploitation, defensive security, DFIR and AI security. AI Forensics was completed on 14 October.
+## Learning logs and reviews
 
-## Learning log
-
-Dated logs are archived by month: [`2026/11-2026/`](../../tree/main/2026/11-2026) for November and [`2026/10-2026/`](../../tree/main/2026/10-2026) for October (closed archive). The bilingual monthly summaries are available in [`journey/2026/11-2026.md`](journey/2026/11-2026.md), [`journey/2026/11-2026.en.md`](journey/2026/11-2026.en.md), [`journey/2026/10-2026.md`](journey/2026/10-2026.md) and [`journey/2026/10-2026.en.md`](journey/2026/10-2026.en.md). Days without hands-on work are not counted as completed rooms.
-
-### 8 November 2026 — Public Key Crypto
-
-Completed **Public Key Crypto**: studied asymmetric cryptography, RSA fundamentals, modular arithmetic and Diffie–Hellman key exchange. Practiced calculations with Python 3, reviewed SSH keys and learned GPG basics (key import and decryption). Also spent several hours working on a huntr.com challenge.
-
-**Streak: 35 days; Capability Score: 48; +1 completed room.**
-
-Detailed journal: [8 November journal](2026/11-2026/2026-11-08.en.md).
-
-### 1 November 2026 — Networking Secure Protocols
-
-Completed the room: studied TLS and secure protocols, explored SFTP/FTPS and VPNs through practical work, and took first steps with Wireshark (packet inspection and display filters).
-
-Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
-
-### 1 November 2026 — Corridor
-
-Completed **Corridor**: identified MD5 hashes derived from predictable numeric identifiers. Testing the value 0 in the URL exposed a hidden resource containing the flag. Learned about IDOR and why obfuscation cannot replace server-side access control.
-
-Detailed log: [1 November journal](2026/11-2026/2026-11-01.en.md).
-
-
-
-
-
-### 29 October 2026 — Networking Essentials completed
-
-Completed **Networking Essentials**, covering ARP, ICMP, DHCP, routing, OSPF/EIGRP/BGP/RIP, and NAT. Next up: **Networking Core Protocols**.
-
-Detailed journal: [29 October journal](2026/10-2026/2026-10-29.en.md).
-
-### 26 October 2026 — First look at PowerShell
-
-Continued **Cybersecurity 101** with a first exploration of Windows PowerShell, using search and built-in help to find available commands. This is a useful introduction to IT support/helpdesk fundamentals, not a claim of proficiency.
-
-Detailed log: [26 October journal](2026/10-2026/2026-10-26.en.md).
-
-### 24 October 2026 — Windows Command Line and PHP2Shell
-
-Completed the **Windows Command Line** room. Also encountered a Python exploit associated with ASLR in an intentionally vulnerable lab; the bypass mechanism still needs further study.
-
-Detailed log: [24 October journal](2026/10-2026/2026-10-24.en.md).
-
-### 23 October 2026 — Active Directory
-
-I completed a TryHackMe room on Active Directory organisation, Group Policy Objects (GPOs), Kerberos and NetNTLM authentication, and domains, trees, forests, and trust relationships.
-
-Detailed log: [23 October learning log](2026/10-2026/2026-10-23.en.md).
-
-### 22 October 2026 — PHP vulnerability and Active Directory
-
-I explored Active Directory fundamentals and completed a TryHackMe room about a PHP vulnerability. I studied `session.upload_progress`, multipart request processing before script execution, and a memory-management issue involving *bailout* and `longjmp`. The CWE classification remains to be verified: CWE-824 concerns an uninitialized pointer, while CWE-416 concerns use-after-free.
-
-Detailed log: [22 October learning log](2026/10-2026/2026-10-22.en.md).
-
-### 20 October 2026 — TryHackMe and Cisco Packet Tracer
-
-I completed [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x), exploring Task Manager, UAC, System Configuration (`msconfig`) and advanced system settings in greater depth. I also encountered administration and troubleshooting tools including Computer Management, Task Scheduler, Event Viewer, System Information, Resource Monitor and Registry Editor.
-
-I also completed Cisco Packet Tracer's **Tutored Exploration — Logical and Physical Mode** activity, finished the **Cisco Packet Tracer** training and earned its certificate. I found the simulation realistic and useful for building a broader understanding of networks through both logical and physical views.
-
-The **Cisco Junior Cybersecurity Analyst** learning path is very long, so I will treat it as a **parallel project throughout this school year**, not something to rush through. The aim is to build a solid general foundation in systems, networking and cybersecurity.
-
-Detailed log: [20 October learning log](2026/10-2026/2026-10-20.en.md).
-
-### 19 October 2026 — TryHackMe
-
-Four rooms completed:
-- [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) — an introductory overview of Windows components and system tools. Basic, but useful for recognising system features and understanding Windows endpoints in organisations.
-- [Lo-Fi](https://tryhackme.com/room/lofi) — practical filesystem navigation on a Linux target to locate a flag in the root filesystem.
-- [W1seGuy](https://tryhackme.com/room/w1seguy) — a cryptography challenge focused on analysing an encryption mechanism and recovering the message/flag.
-- [Light](https://tryhackme.com/room/lightroom) — SQL injection against a web application, demonstrating the risk of unsafe handling of user input in SQL queries.
-
-This session reinforced operating-system familiarity and web security. The SQL injection exercise in Light connects directly with the SQL fundamentals covered in Pre Security.
-
-## Current training
-
-- **TryHackMe — Pre Security:** completed at **100% on 18 October 2026**. The path consolidated networking, operating systems, Linux and Windows, databases/SQL, cloud computing, virtualization and operating-system security. The Python and JavaScript demos were mainly introductory revision.
-
-- **Networking:** studying networking fundamentals and analysis through TryHackMe. An annual Premium subscription is now active to use the AttackBox and complete full learning paths.
-- **Network Services:** completed on 3 October 2026, with hands-on practice covering SMB, Telnet and FTP enumeration/exploitation in an authorized lab.
-- **Network Services 2:** completed on 6 October 2026, with first hands-on work on NFS, SSH, SUID, SMTP, Postfix and MySQL in an authorized lab.
-- **Network Reconnaissance:** currently in progress, starting with passive reconnaissance.
-- **WiFi Fundamentals and Recon:** completed on 11 October. I know and have performed a Wi-Fi reconnaissance workflow in a lab (monitor mode, multi-band scanning, network/station analysis, and hidden-SSID discovery). This is a practiced skill, but I do not yet consider it fully mastered; I still need more repetition and independence.
-- **Red Queen (TryHackMe):** completed simple and static analysis; explored `xxd`, `checksec`, `strings`, Ghidra and XOR decoding. Dynamic analysis with GDB followed by an introduction to symbolic execution using `angr` and SMT/Z3 constraints. Room remains in progress.
-- **Web Hacking 1:** currently on hold because a large portion of the available content requires a paid subscription.
-- **Cisco Networking Academy — Introduction to Cybersecurity:** **certification earned on 5 October 2026**; final exam passed with a **73%** score.
-- **TryHackMe — AI Forensics:** completed on 14 October 2026; guided practice in timeline reconstruction, artifact correlation, AI anomaly detection and false-positive analysis.
-- **TryHackMe — Health Hazard:** room and practical training completed in October 2026; further work on Threat Hunting and log-based investigation.
-- **TryHackMe — OWASP Top 10 2025: IAAA Failures:** completed on 14 October 2026; studied identity, authentication, authorization and auditing failures. Further independent access-control practice is still needed.
-- **Cisco Packet Tracer:** completed on **20 October 2026**, certificate earned. The Tutored Exploration — Logical and Physical Mode activity strengthened my understanding of logical and physical network representations.
-- **Career exploration:** AI and cybersecurity, cloud/networking, SOC and DFIR, while continuing to learn offensive tools without committing to pentesting as the sole path.
-- **Harvard CS50's Introduction to Cybersecurity:** under consideration, but not the immediate priority while I focus on a structured course and a career-relevant certification.
-
-I still want to review the seven OSI layers before going further with networking.
-
-## Certifications and next step
-
-- **Cisco Networking Academy — Introduction to Cybersecurity** — course completion certificate earned **5 October 2026**; final exam passed with **73%**.
-- **Cisco Junior Cybersecurity Analyst learning path:** a parallel project for this school year because the path is very long. The goal is gradual consolidation of core skills rather than rushing to finish a credential.
-- **Potential next step: Cisco CCST Cybersecurity**, a professional certification distinct from a course-completion certificate; syllabus, prerequisites and cost need to be checked before deciding.
+- [November 2026 daily log (FR)](journey/2026/11-2026.md)
+- [November 2026 daily log (EN)](journey/2026/11-2026.en.md)
+- [Monthly reviews](monthly-reports/)
+- [October 2026 archive](journey/2026/10-2026.md)
 
 ## Projects
 
 ### VulnScope
-
-VulnScope is an experimental web security scanner developed as a cybersecurity learning and portfolio project.
-
-It has involved work on crawling, reconnaissance, technology profiling, security-header detection, vulnerability detection, reporting, CORS analysis, CVE correlation and automated testing.
-
-The project is intended for authorized security testing.
+Experimental web security scanner covering crawling, reconnaissance, technology profiling, vulnerability detection and reporting. Intended for authorised testing.
 
 ### PentestGPT
+Initial installation and configuration under Kali/WSL. Provider integration and secure isolation still need validation; no autonomous pentest is claimed.
 
-Initial setup of [PentestGPT](https://github.com/GreyDGL/PentestGPT) in Kali Linux under WSL. The repository and dependencies are installed, and native Codex CLI is configured with OpenRouter and NVIDIA Nemotron 3 Ultra 550B. Direct Codex connectivity was tested successfully. Integration through PentestGPT's `openai-codex` SDK and safe execution remain unverified; the agent roles currently use `FULL_ACCESS`, and no autonomous pentest has been launched.
+## Certifications and training
 
-### Other development
-
-I have also built several SaaS projects with AI-assisted development tools, including an earlier personalized cybersecurity learning platform.
-
-## Journey
-
-I started learning cybersecurity in mid-August 2026. I initially learned by doing TryHackMe rooms and gradually built practical knowledge while solving challenges.
-
-Since then, my focus has increasingly shifted toward offensive security, web and infrastructure pentesting, Linux post-exploitation and AI security.
-
-This repository documents that progression with dated learning logs, projects, labs and evidence.
+- Cisco Networking Academy — Introduction to Cybersecurity: course certificate earned in October 2026.
+- Cisco Packet Tracer: training completed in October 2026.
+- Cisco CCST Cybersecurity preparation in progress.
 
 ## Current direction
 
-**Networking foundations → defensive investigation (SOC/DFIR) → AI applied to cybersecurity / cloud / networking**, while continuing to learn offensive tools. This direction is exploratory.
+**Networking and systems foundations → cybersecurity practice → exploration of SOC/DFIR, cloud and AI applied to cybersecurity.**
 
-This is a learning trajectory, not a claim of professional expertise.
-
-## Portfolio principle
-
-I want this repository to show what I have actually practiced, not just technologies I have heard about.
-
-When possible, skills are backed by labs, projects, experiments, write-ups, code or other evidence.
-
----
-
-*All offensive security practice documented here is intended for authorized environments.*
-
-### 1 November 2026 — Agent T
-
-Completed **Agent T**: inspected HTTP headers and identified PHP 8.1.0-dev, associated with a backdoor triggered through the `User-Agentt` header. Used `curl` to send `system('cat /flag.txt')`, then `grep` to isolate the flag from the HTML response. Topics: HTTP headers, custom requests, RCE, and command-line filtering.
-
-Detailed journal: [1 November journal](2026/11-2026/2026-11-01.en.md).
-
-
-### 3 November 2026 — Wireshark: The Basics
-
-Completed **Wireshark: The Basics**. After an initial look at the interface and packet dissection on 2 November, I spent more time navigating captures, searching packet details and applying display filters. I practiced examining packet fields, metadata and payload information, and understanding individual packets in the context of broader network exchanges.
-
-**Streak: +1 day of practice on 3 November; +1 completed room.**
-
-Detailed journal: [3 November journal](2026/11-2026/2026-11-03.en.md).
-
-
-### 4 November 2026 — tcpdump
-
-Completed the **tcpdump** room: introduction to the **libpcap** packet-capture library (C/C++ ecosystem) and first hands-on work with the **`tcpdump`** command-line tool, its syntax and options. The underlying capture mechanism still needs further study.
-
-**Streak: 33 days as of 4 November; +1 completed room.**
-
-Detailed journal: [4 November journal](2026/11-2026/2026-11-04.en.md).
-
-
-### 10 November 2026 — Hashing Basics and LLM exploration
-
-Completed **Hashing Basics**: studied hash functions, collisions, secure password storage with salts, hash identification/cracking, file-integrity verification and HMAC. Reviewed the differences between hashing, encryption and encoding, the limitations of MD5/SHA-1, and password-specific hashing functions. I also tried coding on Roblox, but did not find it interesting, while gaining some additional exposure to LLMs.
-
-**Streak: 37 days; +1 completed room.**
-
-Detailed journal: [10 November journal](2026/11-2026/2026-11-10.en.md).
-
-
-### 11 November 2026 — Cryptography module completed
-
-Completed the **Cryptography** module. The **John the Ripper: The Basics** room provided hands-on practice with MD5, SHA-256, Whirlpool and NTLM hashes, Linux `/etc/shadow` hashes and `unshadow`, followed by Single Crack Mode, *word mangling* and the GECOS field. I also completed **Crack the Hash** and earned the **Hash Cracker** badge.
-
-**Streak: 38 days; +2 completed rooms.**
-
-Detailed journal: [11 November journal](2026/11-2026/2026-11-11.en.md).
-
-
-### 13 November 2026 — Metasploit and PentestGPT
-
-Completed the **Metasploit** module and earned its badge; also completed **Metasploit: Meterpreter**, with initial hands-on use of Meterpreter and its scripts.
-
-I also installed PentestGPT in Kali under WSL and configured Codex CLI with OpenRouter and NVIDIA Nemotron 3 Ultra 550B. The direct Codex test succeeded, but OpenRouter integration through PentestGPT's backend still needs confirmation. The agent roles currently use `FULL_ACCESS`; no autonomous pentest has been run before validating isolation.
-
-**Streak: 41 days; +1 completed room; Metasploit badge earned.**
-
-Detailed journal: [13 November journal](2026/11-2026/2026-11-13.en.md).
+This repository documents a learning journey, not professional expertise. Offensive exercises are performed in authorised environments.
