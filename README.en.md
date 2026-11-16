@@ -28,6 +28,7 @@ Completed rooms cover networking, Linux, Windows, web security, cryptography, re
 
 - [November 2026 daily log (FR)](journey/2026/11-2026.md)
 - [November 2026 daily log (EN)](journey/2026/11-2026.en.md)
+- [October 2026 review](monthly-reports/2026-10.en.md)
 - [Monthly reviews](monthly-reports/)
 - [October 2026 archive](journey/2026/10-2026.md)
 
