@@ -28,6 +28,7 @@ Rooms terminées dans les domaines réseau, Linux, Windows, sécurité web, cryp
 
 - [Journaux quotidiens — novembre 2026](journey/2026/11-2026.md)
 - [November 2026 — daily log (EN)](journey/2026/11-2026.en.md)
+- [Bilan d'octobre 2026](monthly-reports/2026-10.md)
 - [Bilans mensuels](monthly-reports/)
 - [Archives d'octobre 2026](journey/2026/10-2026.md)
 
